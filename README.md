@@ -16,7 +16,7 @@
 </p>
 
 <p align="right">
-    <i>Animation from <a href="https://viper.cs.columbia.edu/">ViperGPT (Surís et. al)</a></i>
+    <i>Animation from <a href="https://viper.cs.columbia.edu/">ViperGPT (Surís et al.)</a></i>
 </p>
 
 <p align="center">
