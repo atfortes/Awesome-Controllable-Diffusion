@@ -44,6 +44,10 @@
 
     *Jean-Baptiste Alayrac, Jeff Donahue, Pauline Luc, Antoine Miech, Iain Barr, Yana Hasson, Karel Lenc, Arthur Mensch, Katie Millican, Malcolm Reynolds, Roman Ring, Eliza Rutherford, Serkan Cabi, Tengda Han, Zhitao Gong, Sina Samangooei, Marianne Monteiro, Jacob Menick, Sebastian Borgeaud, Andrew Brock, Aida Nematzadeh, Sahand Sharifzadeh, Mikolaj Binkowski, Ricardo Barreira, Oriol Vinyals, Andrew Zisserman, Karen Simonyan.* [[Blog](https://www.deepmind.com/blog/tackling-multiple-tasks-with-a-single-visual-language-model)] [[Paper](https://arxiv.org/abs/2204.14198)], 2022.4
 
+1. **Visual Programming: Compositional visual reasoning without training.** `CPVR 2023`
+
+    *Tanmay Gupta, Aniruddha Kembhavi.* [[Paper](https://arxiv.org/abs/2211.11559)], 2022.11
+
 1. **BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models.** `Preprint`
 
     *Junnan Li, Dongxu Li, Silvio Savarese, Steven Hoi.* [[Paper](https://arxiv.org/abs/2301.12597)] [[Code](https://github.com/salesforce/LAVIS/tree/main/projects/blip2)], 2023.1
