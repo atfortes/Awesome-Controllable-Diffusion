@@ -30,6 +30,9 @@
 
 
  - [Technique](#technique)
+    - [End-to-end Models](#e2e)
+    - [Prompting & In-context Learning](#prompt)
+    - [Symbolic Approach](#symbolic)
  - [Benchmark](#benchmark)
  - [Other Awesome Lists](#other-awesome-lists)
  - [Contributing](#contributing)
@@ -38,47 +41,66 @@
  
  ## Technique
  
+ <h3 id="e2e">End-to-end Models</h3>
+ 
  
 
 1. **Flamingo: a Visual Language Model for Few-Shot Learning.** `NeurIPS 2022`
 
     *Jean-Baptiste Alayrac, Jeff Donahue, Pauline Luc, Antoine Miech, Iain Barr, Yana Hasson, Karel Lenc, Arthur Mensch, Katie Millican, Malcolm Reynolds, Roman Ring, Eliza Rutherford, Serkan Cabi, Tengda Han, Zhitao Gong, Sina Samangooei, Marianne Monteiro, Jacob Menick, Sebastian Borgeaud, Andrew Brock, Aida Nematzadeh, Sahand Sharifzadeh, Mikolaj Binkowski, Ricardo Barreira, Oriol Vinyals, Andrew Zisserman, Karen Simonyan.* [[Blog](https://www.deepmind.com/blog/tackling-multiple-tasks-with-a-single-visual-language-model)] [[Paper](https://arxiv.org/abs/2204.14198)], 2022.4
 
-1. **Visual Programming: Compositional visual reasoning without training.** `CPVR 2023`
-
-    *Tanmay Gupta, Aniruddha Kembhavi.* [[Paper](https://arxiv.org/abs/2211.11559)], 2022.11
-
 1. **BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models.** `Preprint`
 
     *Junnan Li, Dongxu Li, Silvio Savarese, Steven Hoi.* [[Paper](https://arxiv.org/abs/2301.12597)] [[Code](https://github.com/salesforce/LAVIS/tree/main/projects/blip2)], 2023.1
 
-1. **Multimodal Chain-of-Thought Reasoning in Language Models.** `Preprint`
-
-    *Zhuosheng Zhang, Aston Zhang, Mu Li, Hai Zhao, George Karypis, Alex Smola.* [[Paper](https://arxiv.org/abs/2302.00923)] [[Code](https://github.com/amazon-science/mm-cot)], 2023.2
-    
 1. **Language Is Not All You Need: Aligning Perception with Language Models.** `Preprint`
 
     *Shaohan Huang, Li Dong, Wenhui Wang, Yaru Hao, Saksham Singhal, Shuming Ma, Tengchao Lv, Lei Cui, Owais Khan Mohammed, Barun Patra, Qiang Liu, Kriti Aggarwal, Zewen Chi, Johan Bjorck, Vishrav Chaudhary, Subhojit Som, Xia Song, Furu Wei.* [[Paper](https://arxiv.org/abs/2302.14045)], 2023.2
+
+1. **Prismer: A Vision-Language Model with An Ensemble of Experts.** `Preprint`
+
+    *Shikun Liu, Linxi Fan, Edward Johns, Zhiding Yu, Chaowei Xiao, Anima Anandkumar.* [[Project](https://shikun.io/projects/prismer)] [[Paper](https://arxiv.org/abs/2303.02506)] [[Code](https://github.com/NVlabs/prismer)] [[Demo](https://huggingface.co/spaces/lorenmt/prismer)], 2023.3
 
 1. **PaLM-E: An Embodied Multimodal Language Model.** `Preprint`
 
     *Danny Driess, Fei Xia, Mehdi S. M. Sajjadi, Corey Lynch, Aakanksha Chowdhery, Brian Ichter, Ayzaan Wahid, Jonathan Tompson, Quan Vuong, Tianhe Yu, Wenlong Huang, Yevgen Chebotar, Pierre Sermanet, Daniel Duckworth, Sergey Levine, Vincent Vanhoucke, Karol Hausman, Marc Toussaint, Klaus Greff, Andy Zeng, Igor Mordatch, Pete Florence.* [[Project](https://palm-e.github.io/)] [[Paper](https://arxiv.org/abs/2303.03378)], 2023.3
 
-1. **Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models.** `Preprint`
-
-    *Chenfei Wu, Shengming Yin, Weizhen Qi, Xiaodong Wang, Zecheng Tang, Nan Duan.* [[Paper](https://arxiv.org/abs/2303.04671)] [[Code](https://github.com/microsoft/visual-chatgpt)], 2023.3
-
-1. **ViperGPT: Visual Inference via Python Execution for Reasoning.** `Preprint`
-
-    *Dídac Surís, Sachit Menon, Carl Vondrick.* [[Project](https://viper.cs.columbia.edu/)] [[Paper](https://arxiv.org/abs/2303.08128)] [[Code](https://github.com/cvlab-columbia/viper)], 2023.3
-
 1. **GPT-4 Technical Report.** `Preprint`
 
     *OpenAI.* [[Blog](https://openai.com/research/gpt-4)] [[Paper](https://arxiv.org/abs/2303.08774)], 2023.3
 
+
+
+<h3 id="prompt">Prompting & In-context Learning</h3>
+
+
+
+1. **Multimodal Chain-of-Thought Reasoning in Language Models.** `Preprint`
+
+    *Zhuosheng Zhang, Aston Zhang, Mu Li, Hai Zhao, George Karypis, Alex Smola.* [[Paper](https://arxiv.org/abs/2302.00923)] [[Code](https://github.com/amazon-science/mm-cot)], 2023.2
+
+1. **Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models.** `Preprint`
+
+    *Chenfei Wu, Shengming Yin, Weizhen Qi, Xiaodong Wang, Zecheng Tang, Nan Duan.* [[Paper](https://arxiv.org/abs/2303.04671)] [[Code](https://github.com/microsoft/visual-chatgpt)], 2023.3
+
 1. **MM-REACT: Prompting ChatGPT for Multimodal Reasoning and Action.** `Preprint`
 
-    *Zhengyuan Yang, Linjie Li, Jianfeng Wang, Kevin Lin, Ehsan Azarnasab, Faisal Ahmed, Zicheng Liu, Ce Liu, Michael Zeng, Lijuan Wang.* [[Project](https://multimodal-react.github.io/)] [[Paper](https://arxiv.org/abs/2303.11381)] [[Code](https://github.com/microsoft/MM-REACT)], 2023.3
+    *Zhengyuan Yang, Linjie Li, Jianfeng Wang, Kevin Lin, Ehsan Azarnasab, Faisal Ahmed, Zicheng Liu, Ce Liu, Michael Zeng, Lijuan Wang.* [[Project](https://multimodal-react.github.io/)] [[Paper](https://arxiv.org/abs/2303.11381)] [[Code](https://github.com/microsoft/MM-REACT)] [[Demo](https://huggingface.co/spaces/microsoft-cognitive-service/mm-react)], 2023.3
+
+
+
+<h3 id="symbolic">Symbolic Approach</h3>
+
+
+
+1. **Visual Programming: Compositional visual reasoning without training.** `CPVR 2023`
+
+    *Tanmay Gupta, Aniruddha Kembhavi.* [[Project](https://prior.allenai.org/projects/visprog)] [[Paper](https://arxiv.org/abs/2211.11559)], 2022.11
+
+
+1. **ViperGPT: Visual Inference via Python Execution for Reasoning.** `Preprint`
+
+    *Dídac Surís, Sachit Menon, Carl Vondrick.* [[Project](https://viper.cs.columbia.edu/)] [[Paper](https://arxiv.org/abs/2303.08128)] [[Code](https://github.com/cvlab-columbia/viper)], 2023.3
 
 
 
