@@ -1,10 +1,10 @@
-<h1 align="center">Multimodal Reasoning</h1>
+<h1 align="center">Awesome Multimodal Reasoning</h1>
 
 <p align="center">
-    <img src="https://awesome.re/badge.svg" href="https://github.com/atfortes/Multimodal-Reasoning-Papers"/>
+    <img src="https://awesome.re/badge.svg" href="https://github.com/atfortes/Awesome-Multimodal-Reasoning"/>
     <img src="https://img.shields.io/badge/License-MIT-green.svg" href="https://opensource.org/licenses/MIT"/>
     <img src="https://img.shields.io/badge/PRs-Welcome-red"/>
-    <img src="https://img.shields.io/github/last-commit/atfortes/Multimodal-Reasoning-Papers?color=green"/>
+    <img src="https://img.shields.io/github/last-commit/atfortes/Awesome-Multimodal-Reasoning?color=green"/>
 </p>
 
 <p align="center">
@@ -142,6 +142,6 @@
 
 ### Contributors
 
-<a href="https://github.com/atfortes/Multimodal-Reasoning-Papers/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=atfortes/Multimodal-Reasoning-Papers" />
+<a href="https://github.com/atfortes/Awesome-Multimodal-Reasoning/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=atfortes/Awesome-Multimodal-Reasoning" />
 </a>
