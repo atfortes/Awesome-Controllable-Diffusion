@@ -109,6 +109,7 @@
 
 
 - **[SCIENCEQA](https://arxiv.org/abs/2209.09513)**  Multimodal multiple choice questions with diverse science topics and annotations of their answers with corresponding lectures and explanations.
+- **[ARO](https://arxiv.org/abs/2210.01936)**  Systematically evaluate the ability of VLMs to understand different types of relationships, attributes, and order.
 - **[OK-VQA](https://arxiv.org/abs/1906.00067)**  Visual question answering that requires methods which can draw upon outside knowledge to answer questions.
 - **[A-OKVQA](https://arxiv.org/abs/2206.01718)**  Knowledge-based visual question answering benchmark.
 - **[NExT-QA](https://arxiv.org/abs/2105.08276)**  Video question answering (VideoQA) benchmark to advance video understanding from describing to explaining the temporal actions.
