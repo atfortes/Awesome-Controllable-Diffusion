@@ -95,7 +95,7 @@
 
 1. **Visual Programming: Compositional visual reasoning without training.** `CPVR 2023`
 
-    *Tanmay Gupta, Aniruddha Kembhavi.* [[Project](https://prior.allenai.org/projects/visprog)] [[Paper](https://arxiv.org/abs/2211.11559)], 2022.11
+    *Tanmay Gupta, Aniruddha Kembhavi.* [[Project](https://prior.allenai.org/projects/visprog)] [[Paper](https://arxiv.org/abs/2211.11559)] [[Code](https://github.com/allenai/visprog)], 2022.11
 
 
 1. **ViperGPT: Visual Inference via Python Execution for Reasoning.** `Preprint`
