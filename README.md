@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-    Consider how difficult it would be to study from a book that lacks any figures, diagrams or tables. We enhance our learning ability when we combine different data modalities, such as vision, language, and audio. Recently, large language models (LLMs) have achieved remarkable results in complex reasoning tasks by generating intermediate steps before deducing the answer via chain-of-thought (CoT) reasoning. However, most of the research on CoT reasoning only involves the language modality and not others. We present a collection of papers and resources on how to unlock these abilities under multimodal settings.
+    Consider how difficult it would be to study from a book that lacks any figures, diagrams or tables. We enhance our learning ability when we combine different data modalities, such as vision, language, and audio <a href="https://arxiv.org/abs/2302.00923">[1]</a>. Recently, large language models (LLMs) have achieved remarkable results in complex reasoning tasks by generating intermediate steps before deducing the answer via chain-of-thought (CoT) reasoning <a href="https://arxiv.org/abs/2201.11903">[2]</a> <a href="https://github.com/atfortes/LLM-Reasoning-Papers">[3]</a>. However, most of the research on CoT reasoning only involves the language modality and not others. We present a collection of papers and resources on how to unlock these abilities under multimodal settings.
 </p>
 
 
@@ -34,6 +34,7 @@
     - [Prompting & In-context Learning](#prompt)
     - [Symbolic Approach](#symbolic)
  - [Benchmark](#benchmark)
+ - [Other Useful Resources](#other-useful-resources)
  - [Other Awesome Lists](#other-awesome-lists)
  - [Contributing](#contributing)
  
@@ -119,7 +120,15 @@
 - **[ARC](https://arxiv.org/abs/1911.01547)**  General artificial intelligence benchmark, targetted at artificially intelligent systems that aim at emulating a human-like form of general fluid intelligence.
 
 
-  
+ 
+ ## Other Useful Resources
+ 
+ 
+ 
+ - **[salesforce/LAVIS](https://github.com/salesforce/LAVIS)**  One-stop Library for Language-Vision Intelligence.
+ 
+ 
+ 
  ## Other Awesome Lists
 
 
