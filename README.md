@@ -74,7 +74,13 @@
 
 <h3 id="prompt">Prompting & In-context Learning</h3>
 
+1. **Multimodal Few-Shot Learning with Frozen Language Models.** `Preprint`
 
+    *Multimodal Few-Shot Learning with Frozen Language Models.* [[Paper](https://arxiv.org/abs/2106.13884)], 2021.6
+
+1. **Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language.** `Preprint`
+
+    *Andy Zeng, Maria Attarian, Brian Ichter, Krzysztof Choromanski, Adrian Wong, Stefan Welker, Federico Tombari, Aveek Purohit, Michael Ryoo, Vikas Sindhwani, Johnny Lee, Vincent Vanhoucke, Pete Florence.* [[Project](https://socraticmodels.github.io/)] [[Paper](https://arxiv.org/abs/2204.00598)] [[Code](https://github.com/google-research/google-research/tree/master/socraticmodels)], 2022.4
 
 1. **Multimodal Chain-of-Thought Reasoning in Language Models.** `Preprint`
 
@@ -116,7 +122,9 @@
 - **[NExT-QA](https://arxiv.org/abs/2105.08276)**  Video question answering (VideoQA) benchmark to advance video understanding from describing to explaining the temporal actions.
 - **[GQA](https://arxiv.org/abs/1902.09506)**  Compositional questions over real-world images.
 - **[VQA](https://arxiv.org/abs/1505.00468)**  Questions about images that require an understanding of vision, language and commonsense knowledge.
-- **[VQAv2](https://arxiv.org/abs/1612.00837)**  The 2nd iteration of the Visual Question Answering Dataset (VQA).
+- **[VQAv2](https://arxiv.org/abs/1612.00837)**  2nd iteration of the Visual Question Answering Dataset (VQA).
+- **[TAG](https://arxiv.org/abs/2208.01813)** Questions that require understanding the textual cues in an image.
+- **[Bongard-HOI](https://arxiv.org/abs/2205.13803)** Visual reasoning benchmark on compositional learning of human-object interactions (HOIs) from natural images.
 - **[ARC](https://arxiv.org/abs/1911.01547)**  General artificial intelligence benchmark, targetted at artificially intelligent systems that aim at emulating a human-like form of general fluid intelligence.
 
 
