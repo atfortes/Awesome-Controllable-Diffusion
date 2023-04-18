@@ -70,6 +70,9 @@
 
     *OpenAI.* [[Blog](https://openai.com/research/gpt-4)] [[Paper](https://arxiv.org/abs/2303.08774)], 2023.3
 
+1. **Visual Instruction Tuning.** `Preprint`
+
+    *Haotian Liu, Chunyuan Li, Qingyang Wu, Yong Jae Lee.* [[Project](https://llava-vl.github.io/)] [[Paper](https://arxiv.org/abs/2304.08485)] [[Code](https://github.com/haotian-liu/LLaVA)] [[Demo](https://llava.hliu.cc/)], 2023.4
 
 
 <h3 id="prompt">Prompting & In-context Learning</h3>
