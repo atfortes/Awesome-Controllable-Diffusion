@@ -84,11 +84,11 @@
 
 
 
-1. **Multimodal Few-Shot Learning with Frozen Language Models.** `Preprint`
+1. **Multimodal Few-Shot Learning with Frozen Language Models.** `NeurIPS 2021`
 
     *Multimodal Few-Shot Learning with Frozen Language Models.* [[Paper](https://arxiv.org/abs/2106.13884)], 2021.6
 
-1. **Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language.** `Preprint`
+1. **Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language.** `ICLR 2023`
 
     *Andy Zeng, Maria Attarian, Brian Ichter, Krzysztof Choromanski, Adrian Wong, Stefan Welker, Federico Tombari, Aveek Purohit, Michael Ryoo, Vikas Sindhwani, Johnny Lee, Vincent Vanhoucke, Pete Florence.* [[Project](https://socraticmodels.github.io/)] [[Paper](https://arxiv.org/abs/2204.00598)] [[Code](https://github.com/google-research/google-research/tree/master/socraticmodels)], 2022.4
 
