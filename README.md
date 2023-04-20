@@ -32,7 +32,7 @@
  - [Technique](#technique)
     - [End-to-end Models](#e2e)
     - [Prompting & In-context Learning](#prompt)
-    - [Symbolic Approach](#symbolic)
+    - [Compositional & Symbolic Approach](#symbolic)
  - [Benchmark](#benchmark)
  - [Other Useful Resources](#other-useful-resources)
  - [Other Awesome Lists](#other-awesome-lists)
@@ -45,6 +45,10 @@
  <h3 id="e2e">End-to-end Models</h3>
  
  
+
+1. **Learning to Reason: End-to-End Module Networks for Visual Question Answering.** `Preprint`
+
+    *Ronghang Hu, Jacob Andreas, Marcus Rohrbach, Trevor Darrell, Kate Saenko.* [[Paper](https://arxiv.org/abs/1704.05526)], 2017.4
 
 1. **Flamingo: a Visual Language Model for Few-Shot Learning.** `NeurIPS 2022`
 
@@ -75,7 +79,10 @@
     *Haotian Liu, Chunyuan Li, Qingyang Wu, Yong Jae Lee.* [[Project](https://llava-vl.github.io/)] [[Paper](https://arxiv.org/abs/2304.08485)] [[Code](https://github.com/haotian-liu/LLaVA)] [[Demo](https://llava.hliu.cc/)], 2023.4
 
 
+
 <h3 id="prompt">Prompting & In-context Learning</h3>
+
+
 
 1. **Multimodal Few-Shot Learning with Frozen Language Models.** `Preprint`
 
@@ -99,18 +106,34 @@
 
 
 
-<h3 id="symbolic">Symbolic Approach</h3>
+<h3 id="symbolic">Compositional & Symbolic Approach</h3>
 
 
+
+
+1. **Inferring and Executing Programs for Visual Reasoning.** `Preprint`
+
+    *Justin Johnson, Bharath Hariharan, Laurens van der Maaten, Judy Hoffman, Li Fei-Fei, C. Lawrence Zitnick, Ross Girshick.* [[Paper](https://arxiv.org/abs/1705.03633)], 2017.5
+
+1. **Neural-Symbolic VQA: Disentangling Reasoning from Vision and Language Understanding.** `Preprint`
+
+    *Kexin Yi, Jiajun Wu, Chuang Gan, Antonio Torralba, Pushmeet Kohli, Joshua B. Tenenbaum.* [[Paper](https://arxiv.org/abs/1810.02338)], 2018.10
 
 1. **Visual Programming: Compositional visual reasoning without training.** `CPVR 2023`
 
     *Tanmay Gupta, Aniruddha Kembhavi.* [[Project](https://prior.allenai.org/projects/visprog)] [[Paper](https://arxiv.org/abs/2211.11559)] [[Code](https://github.com/allenai/visprog)], 2022.11
 
-
 1. **ViperGPT: Visual Inference via Python Execution for Reasoning.** `Preprint`
 
     *Dídac Surís, Sachit Menon, Carl Vondrick.* [[Project](https://viper.cs.columbia.edu/)] [[Paper](https://arxiv.org/abs/2303.08128)] [[Code](https://github.com/cvlab-columbia/viper)], 2023.3
+
+1. **HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace.** `Preprint`
+
+    *Yongliang Shen, Kaitao Song, Xu Tan, Dongsheng Li, Weiming Lu, Yueting Zhuang.* [[Paper](https://arxiv.org/abs/2303.17580)] [[Code](https://github.com/microsoft/JARVIS)], 2023.3
+
+1. **Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models.** `Preprint`
+
+    *Pan Lu, Baolin Peng, Hao Cheng, Michel Galley, Kai-Wei Chang, Ying Nian Wu, Song-Chun Zhu, Jianfeng Gao.* [[Project](https://chameleon-llm.github.io/)] [[Paper](https://arxiv.org/abs/2304.09842)] [[Code](https://github.com/lupantech/chameleon-llm)], 2023.4
 
 
 
