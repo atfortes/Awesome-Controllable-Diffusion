@@ -104,6 +104,10 @@
 
     *Zhengyuan Yang, Linjie Li, Jianfeng Wang, Kevin Lin, Ehsan Azarnasab, Faisal Ahmed, Zicheng Liu, Ce Liu, Michael Zeng, Lijuan Wang.* [[Project](https://multimodal-react.github.io/)] [[Paper](https://arxiv.org/abs/2303.11381)] [[Code](https://github.com/microsoft/MM-REACT)] [[Demo](https://huggingface.co/spaces/microsoft-cognitive-service/mm-react)], 2023.3
 
+1. **Visual Chain of Thought: Bridging Logical Gaps with Multimodal Infillings.** `Preprint`
+
+    *Daniel Rose, Vaishnavi Himakunthala, Andy Ouyang, Ryan He, Alex Mei, Yujie Lu, Michael Saxon, Chinmay Sonar, Diba Mirza, William Yang Wang.* [[Paper](https://arxiv.org/abs/2305.02317)] [[Code](https://github.com/dannyrose30/VCOT)], 2023.5
+
 
 
 <h3 id="symbolic">Compositional & Symbolic Approach</h3>
