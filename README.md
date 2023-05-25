@@ -78,6 +78,18 @@
 
     *Haotian Liu, Chunyuan Li, Qingyang Wu, Yong Jae Lee.* [[Project](https://llava-vl.github.io/)] [[Paper](https://arxiv.org/abs/2304.08485)] [[Code](https://github.com/haotian-liu/LLaVA)] [[Demo](https://llava.hliu.cc/)], 2023.4
 
+1. **MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models.** `Preprint`
+
+    *Deyao Zhu, Jun Chen, Xiaoqian Shen, Xiang Li, Mohamed Elhoseiny.* [[Project](https://minigpt-4.github.io/)] [[Paper](https://arxiv.org/abs/2304.10592)] [[Code](https://github.com/Vision-CAIR/MiniGPT-4)], 2023.4
+
+1. **Otter: A Multi-Modal Model with In-Context Instruction Tuning** `Preprint`
+
+    *Bo Li, Yuanhan Zhang, Liangyu Chen, Jinghao Wang, Jingkang Yang, Ziwei Liu.* [[Paper](https://arxiv.org/abs/2305.03726)] [[Code](https://github.com/Luodian/Otter)], 2023.5 
+
+1. **VisionLLM: Large Language Model is also an Open-Ended Decoder for Vision-Centric Tasks.** `Preprint`
+
+    *VisionLLM: Large Language Model is also an Open-Ended Decoder for Vision-Centric Tasks.* [[Paper](https://arxiv.org/abs/2305.11175)] [[Code](https://github.com/OpenGVLab/VisionLLM)] [[Demo](https://github.com/OpenGVLab/InternGPT)], 2023.5
+
 
 
 <h3 id="prompt">Prompting & In-context Learning</h3>
