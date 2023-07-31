@@ -37,12 +37,12 @@
  - [Other Useful Resources](#other-useful-resources)
  - [Other Awesome Lists](#other-awesome-lists)
  - [Contributing](#contributing)
+
+
  
+## Technique
  
- 
- ## Technique
- 
- <h3 id="e2e">End-to-end Models</h3>
+<h3 id="e2e">End-to-end Models</h3>
  
  
 
@@ -90,6 +90,17 @@
 
     *VisionLLM: Large Language Model is also an Open-Ended Decoder for Vision-Centric Tasks.* [[Paper](https://arxiv.org/abs/2305.11175)] [[Code](https://github.com/OpenGVLab/VisionLLM)] [[Demo](https://github.com/OpenGVLab/InternGPT)], 2023.5
 
+1. **BuboGPT: Enabling Visual Grounding in Multi-Modal LLMs.** `Preprint`
+
+    *Yang Zhao, Zhijie Lin, Daquan Zhou, Zilong Huang, Jiashi Feng, Bingyi Kang.* [[Paper](https://arxiv.org/abs/2307.08581)] [[Code](https://bubo-gpt.github.io/)], 2023.7
+
+1. **Augmenting CLIP with Improved Visio-Linguistic Reasoning.** `Preprint`
+
+    *Samyadeep Basu, Maziar Sanjabi, Daniela Massiceti, Shell Xu Hu, Soheil Feizi.* [[Paper](https://arxiv.org/abs/2307.09233)], 2023.7
+
+1. **Med-Flamingo: a Multimodal Medical Few-shot Learner.** `Preprint`
+
+    *Michael Moor, Qian Huang, Shirley Wu, Michihiro Yasunaga, Cyril Zakka, Yash Dalmia, Eduardo Pontes Reis, Pranav Rajpurkar, Jure Leskovec.* [[Paper](https://arxiv.org/abs/2307.15189)] [[Code](https://github.com/snap-stanford/med-flamingo)], 2023.7
 
 
 <h3 id="prompt">Prompting & In-context Learning</h3>
