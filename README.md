@@ -102,6 +102,11 @@
 
     *Michael Moor, Qian Huang, Shirley Wu, Michihiro Yasunaga, Cyril Zakka, Yash Dalmia, Eduardo Pontes Reis, Pranav Rajpurkar, Jure Leskovec.* [[Paper](https://arxiv.org/abs/2307.15189)] [[Code](https://github.com/snap-stanford/med-flamingo)], 2023.7
 
+1. **Qwen-VL: A Frontier Large Vision-Language Model with Versatile Abilities.** `Preprint`
+
+    *Jinze Bai, Shuai Bai, Shusheng Yang, Shijie Wang, Sinan Tan, Peng Wang, Junyang Lin, Chang Zhou, Jingren Zhou.* [[Paper](https://arxiv.org/abs/2308.12966)] [[Code](https://github.com/QwenLM/Qwen-VL)], 2023.8
+
+
 
 <h3 id="prompt">Prompting & In-context Learning</h3>
 
@@ -130,6 +135,10 @@
 1. **Visual Chain of Thought: Bridging Logical Gaps with Multimodal Infillings.** `Preprint`
 
     *Daniel Rose, Vaishnavi Himakunthala, Andy Ouyang, Ryan He, Alex Mei, Yujie Lu, Michael Saxon, Chinmay Sonar, Diba Mirza, William Yang Wang.* [[Paper](https://arxiv.org/abs/2305.02317)] [[Code](https://github.com/dannyrose30/VCOT)], 2023.5
+
+1. **Link-Context Learning for Multimodal LLMs.** `Preprint`
+
+    *Yan Tai, Weichen Fan, Zhao Zhang, Feng Zhu, Rui Zhao, Ziwei Liu.* [[Paper](https://arxiv.org/abs/2308.07891)] [[Code](https://github.com/isekai-portal/Link-Context-Learning)], 20233.8
 
 
 
