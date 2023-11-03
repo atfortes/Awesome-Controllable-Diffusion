@@ -90,6 +90,10 @@
 
     *VisionLLM: Large Language Model is also an Open-Ended Decoder for Vision-Centric Tasks.* [[Paper](https://arxiv.org/abs/2305.11175)] [[Code](https://github.com/OpenGVLab/VisionLLM)] [[Demo](https://github.com/OpenGVLab/InternGPT)], 2023.5
 
+1. **Kosmos-2: Grounding Multimodal Large Language Models to the World** `Preprint`
+
+    *Zhiliang Peng, Wenhui Wang, Li Dong, Yaru Hao, Shaohan Huang, Shuming Ma, Furu Wei.* [[Paper](https://arxiv.org/abs/2306.14824)], 2023.6
+
 1. **BuboGPT: Enabling Visual Grounding in Multi-Modal LLMs.** `Preprint`
 
     *Yang Zhao, Zhijie Lin, Daquan Zhou, Zilong Huang, Jiashi Feng, Bingyi Kang.* [[Paper](https://arxiv.org/abs/2307.08581)] [[Code](https://bubo-gpt.github.io/)], 2023.7
@@ -105,6 +109,14 @@
 1. **Qwen-VL: A Frontier Large Vision-Language Model with Versatile Abilities.** `Preprint`
 
     *Jinze Bai, Shuai Bai, Shusheng Yang, Shijie Wang, Sinan Tan, Peng Wang, Junyang Lin, Chang Zhou, Jingren Zhou.* [[Paper](https://arxiv.org/abs/2308.12966)] [[Code](https://github.com/QwenLM/Qwen-VL)], 2023.8
+
+1. **Kosmos-2.5: A Multimodal Literate Model.** `Preprint`
+
+    *Tengchao Lv, Yupan Huang, Jingye Chen, Lei Cui, Shuming Ma, Yaoyao Chang, Shaohan Huang, Wenhui Wang, Li Dong, Weiyao Luo, Shaoxiang Wu, Guoxin Wang, Cha Zhang, Furu Wei.* [[Paper](https://arxiv.org/abs/2309.11419)], 2023.9
+
+1. **Improved Baselines with Visual Instruction Tuning.** `Preprint`
+
+   *Haotian Liu, Chunyuan Li, Yuheng Li, Yong Jae Lee.* [[Project](https://llava-vl.github.io/)] [[Paper](https://arxiv.org/abs/2310.03744)] [[Code](https://github.com/haotian-liu/LLaVA)], 2023.10
 
 
 
@@ -146,7 +158,6 @@
 
 
 
-
 1. **Inferring and Executing Programs for Visual Reasoning.** `ICCV 2017`
 
     *Justin Johnson, Bharath Hariharan, Laurens van der Maaten, Judy Hoffman, Li Fei-Fei, C. Lawrence Zitnick, Ross Girshick.* [[Project](https://cs.stanford.edu/people/jcjohns/iep/)] [[Paper](https://arxiv.org/abs/1705.03633)] [[Code](https://github.com/facebookresearch/clevr-iep)], 2017.5
@@ -170,6 +181,14 @@
 1. **Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models.** `Preprint`
 
     *Pan Lu, Baolin Peng, Hao Cheng, Michel Galley, Kai-Wei Chang, Ying Nian Wu, Song-Chun Zhu, Jianfeng Gao.* [[Project](https://chameleon-llm.github.io/)] [[Paper](https://arxiv.org/abs/2304.09842)] [[Code](https://github.com/lupantech/chameleon-llm)], 2023.4
+
+1. **Woodpecker: Hallucination Correction for Multimodal Large Language Models.** `Preprint`
+
+    *Shukang Yin, Chaoyou Fu, Sirui Zhao, Tong Xu, Hao Wang, Dianbo Sui, Yunhang Shen, Ke Li, Xing Sun, Enhong Chen.* [[Paper](https://arxiv.org/abs/2310.16045)] [[Code](https://github.com/BradyFU/Woodpecker)], 2023.10
+
+1. **MM-VID: Advancing Video Understanding with GPT-4V(ision).** `Preprint`
+
+    *Kevin Lin, Faisal Ahmed, Linjie Li, Chung-Ching Lin, Ehsan Azarnasab, Zhengyuan Yang, Jianfeng Wang, Lin Liang, Zicheng Liu, Yumao Lu, Ce Liu, Lijuan Wang.* [[Project](https://multimodal-vid.github.io/)] [[Paper](https://arxiv.org/abs/2310.19773)] [[Demo](https://multimodal-vid.github.io/#video-demos)], 2023.10
 
 
 
