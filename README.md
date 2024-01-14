@@ -118,6 +118,26 @@
 
    *Haotian Liu, Chunyuan Li, Yuheng Li, Yong Jae Lee.* [[Project](https://llava-vl.github.io/)] [[Paper](https://arxiv.org/abs/2310.03744)] [[Code](https://github.com/haotian-liu/LLaVA)], 2023.10
 
+1. **G-LLaVA: Solving Geometric Problem with Multi-Modal Large Language Model.** `Preprint`
+
+   *Jiahui Gao, Renjie Pi, Jipeng Zhang, Jiacheng Ye, Wanjun Zhong, Yufei Wang, Lanqing Hong, Jianhua Han, Hang Xu, Zhenguo Li, Lingpeng Kong.* [[Paper](https://arxiv.org/abs/2312.11370)], 2023.12
+
+1. **G-LLaVA: Solving Geometric Problem with Multi-Modal Large Language Model.** `Preprint`
+
+   *Jiahui Gao, Renjie Pi, Jipeng Zhang, Jiacheng Ye, Wanjun Zhong, Yufei Wang, Lanqing Hong, Jianhua Han, Hang Xu, Zhenguo Li, Lingpeng Kong.* [[Paper](https://arxiv.org/abs/2312.11370)], 2023.12
+
+1. **Gemini: A Family of Highly Capable Multimodal Models.** `Preprint`
+
+   *Gemini Team, Google.* [[Paper](https://arxiv.org/abs/2312.11805)], 2023.12
+
+1. **Gemini: A Family of Highly Capable Multimodal Models.** `Preprint`
+
+   *Gemini Team, Google.* [[Paper](https://arxiv.org/abs/2312.11805)], 2023.12
+
+1. **Gemini in Reasoning: Unveiling Commonsense in Multimodal Large Language Models.** `Preprint`
+
+   *Yuqing Wang, Yun Zhao.* [[Paper](https://arxiv.org/abs/2312.17661)], 2023.12
+
 
 
 <h3 id="prompt">Prompting & In-context Learning</h3>
@@ -151,6 +171,10 @@
 1. **Link-Context Learning for Multimodal LLMs.** `Preprint`
 
     *Yan Tai, Weichen Fan, Zhao Zhang, Feng Zhu, Rui Zhao, Ziwei Liu.* [[Paper](https://arxiv.org/abs/2308.07891)] [[Code](https://github.com/isekai-portal/Link-Context-Learning)], 20233.8
+
+1. **Chain-of-Table: Evolving Tables in the Reasoning Chain for Table Understanding** `Preprint`
+
+    *Zilong Wang, Hao Zhang, Chun-Liang Li, Julian Martin Eisenschlos, Vincent Perot, Zifeng Wang, Lesly Miculicich, Yasuhisa Fujii, Jingbo Shang, Chen-Yu Lee, Tomas Pfister.* [[Paper](https://arxiv.org/abs/2401.04398)], 2024.1
 
 
 
