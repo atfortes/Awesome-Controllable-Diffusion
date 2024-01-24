@@ -37,11 +37,6 @@
  
 ## Papers
 
-Modalities: ![](https://img.shields.io/badge/Image-blue?style=flat-square) ![](https://img.shields.io/badge/Video-9370db?style=flat-square) ![](https://img.shields.io/badge/3D-3cb371?style=flat-square)
-
-Controls: ![](https://img.shields.io/badge/Layout-a50b5e?style=flat-square) ![](https://img.shields.io/badge/Style-ff0000?style=flat-square) ![](https://img.shields.io/badge/Subject--Driven-orange?style=flat-square)
-
-
 
  
 - **[DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation.](https://arxiv.org/abs/2208.12242)** ![](https://img.shields.io/badge/Image-blue?style=flat-square) ![](https://img.shields.io/badge/Subject--Driven-orange?style=flat-square)
@@ -83,6 +78,10 @@ Controls: ![](https://img.shields.io/badge/Layout-a50b5e?style=flat-square) ![](
 - **[DreamTuner: Single Image is Enough for Subject-Driven Generation.](https://arxiv.org/abs/2312.13691)** ![](https://img.shields.io/badge/Image-blue?style=flat-square) ![](https://img.shields.io/badge/Subject--Driven-orange?style=flat-square)
 
     *Miao Hua, Jiawei Liu, Fei Ding, Wei Liu, Jie Wu, Qian He.* Preprint 2023.
+
+
+
+![](https://img.shields.io/badge/Video-9370db?style=flat-square) ![](https://img.shields.io/badge/3D-3cb371?style=flat-square)
 
 
  
