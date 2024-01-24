@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-    <img src="https://github.com/atfortes/Awesome-Multimodal-Reasoning/controlnet.png" width="100%" style="align:center;"/>
+    <img src="https://github.com/atfortes/Awesome-Controllable-Diffusion/blob/main/controlnet.png" width="100%" style="align:center;"/>
 </p>
 
 <p align="right">
