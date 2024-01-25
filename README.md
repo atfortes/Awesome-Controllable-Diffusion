@@ -123,6 +123,10 @@
 
     *Amir Hertz, Andrey Voynov, Shlomi Fruchter, Daniel Cohen-Or.* Preprint 2023. 🔥
 
+- **[FaceStudio: Put Your Face Everywhere in Seconds.](https://arxiv.org/abs/2312.02663)** ![](https://img.shields.io/badge/Image-blue?style=flat-square) ![](https://img.shields.io/badge/Subject--Driven-orange?style=flat-square)
+
+    *Yuxuan Yan, Chi Zhang, Rui Wang, Yichao Zhou, Gege Zhang, Pei Cheng, Gang Yu, Bin Fu.* Preprint 2023.
+
 - **[Context Diffusion: In-Context Aware Image Generation.](https://arxiv.org/abs/2312.03584)** ![](https://img.shields.io/badge/Image-blue?style=flat-square) ![](https://img.shields.io/badge/Layout-a50b5e?style=flat-square)
 
     *Ivona Najdenkoska, Animesh Sinha, Abhimanyu Dubey, Dhruv Mahajan, Vignesh Ramanathan, Filip Radenovic.* Preprint 2023.
@@ -146,6 +150,18 @@
 - **[InstantID: Zero-shot Identity-Preserving Generation in Seconds.](https://arxiv.org/abs/2401.07519)** ![](https://img.shields.io/badge/Image-blue?style=flat-square) ![](https://img.shields.io/badge/Subject--Driven-orange?style=flat-square)
 
     *Moab Arar, Andrey Voynov, Amir Hertz, Omri Avrahami, Shlomi Fruchter, Yael Pritch, Daniel Cohen-Or, Ariel Shamir.* Preprint 2024.
+
+- **[Mastering Text-to-Image Diffusion: Recaptioning, Planning, and Generating with Multimodal LLMs.](https://arxiv.org/abs/2401.11708)** ![](https://img.shields.io/badge/Image-blue?style=flat-square) ![](https://img.shields.io/badge/Layout-a50b5e?style=flat-square)
+
+    *Ling Yang, Zhaochen Yu, Chenlin Meng, Minkai Xu, Stefano Ermon, Bin Cui.* Preprint 2024.
+
+
+
+ ## Other Resources
+
+ 
+
+- **[Regional Prompter](https://github.com/hako-mikan/sd-webui-regional-prompter)**  Set a prompt to a divided region.
 
 
  
