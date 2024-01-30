@@ -30,6 +30,7 @@
 
 
 - [Papers](#papers)
+- [Other Resources](#other-resources)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
 
@@ -154,6 +155,10 @@
 - **[Mastering Text-to-Image Diffusion: Recaptioning, Planning, and Generating with Multimodal LLMs.](https://arxiv.org/abs/2401.11708)** ![](https://img.shields.io/badge/Image-blue?style=flat-square) ![](https://img.shields.io/badge/Layout-a50b5e?style=flat-square)
 
     *Ling Yang, Zhaochen Yu, Chenlin Meng, Minkai Xu, Stefano Ermon, Bin Cui.* Preprint 2024.
+
+- **[UNIMO-G: Unified Image Generation through Multimodal Conditional Diffusion.](https://arxiv.org/abs/2401.13388)** ![](https://img.shields.io/badge/Image-blue?style=flat-square) ![](https://img.shields.io/badge/Subject--Driven-orange?style=flat-square)
+
+    *Wei Li, Xue Xu, Jiachen Liu, Xinyan Xiao.* Preprint 2024 🔥
 
 
 
