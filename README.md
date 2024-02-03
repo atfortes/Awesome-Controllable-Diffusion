@@ -46,7 +46,7 @@
 
 - **[Adding Conditional Control to Text-to-Image Diffusion Models.](https://arxiv.org/abs/2302.05543)** ![](https://img.shields.io/badge/Image-blue?style=flat-square) ![](https://img.shields.io/badge/Layout-a50b5e?style=flat-square)
 
-    *Lvmin Zhang, Anyi Rao, Maneesh Agrawala.* ICCV 2023. 🔥
+    *Lvmin Zhang, Anyi Rao, Maneesh Agrawala.* ICCV'23. 🔥
 
 - **[T2I-Adapter: Learning Adapters to Dig out More Controllable Ability for Text-to-Image Diffusion Models.](https://arxiv.org/abs/2302.05543)** ![](https://img.shields.io/badge/Image-blue?style=flat-square) ![](https://img.shields.io/badge/Layout-a50b5e?style=flat-square)
 
@@ -59,6 +59,10 @@
 - **[InstantBooth: Personalized Text-to-Image Generation without Test-Time Finetuning.](https://arxiv.org/abs/2304.03411)** ![](https://img.shields.io/badge/Image-blue?style=flat-square) ![](https://img.shields.io/badge/Subject--Driven-orange?style=flat-square)
 
     *Jing Shi, Wei Xiong, Zhe Lin, Hyun Joon Jung.* Preprint 2023.
+
+- **[BLIP-Diffusion: Pre-trained Subject Representation for Controllable Text-to-Image Generation and Editing](https://arxiv.org/abs/2305.14720)** ![](https://img.shields.io/badge/Image-blue?style=flat-square) ![](https://img.shields.io/badge/Subject--Driven-orange?style=flat-square)
+
+    *Dongxu Li, Junnan Li, Steven C.H. Hoi.* Preprint 2023.
 
 - **[ControlVideo: Conditional Control for One-shot Text-driven Video Editing and Beyond.](https://arxiv.org/abs/2305.17098)** ![](https://img.shields.io/badge/Video-9370db?style=flat-square) ![](https://img.shields.io/badge/Layout-a50b5e?style=flat-square)
 
@@ -91,6 +95,10 @@
 - **[DreamStyler: Paint by Style Inversion with Text-to-Image Diffusion Models.](https://arxiv.org/abs/2309.06933)** ![](https://img.shields.io/badge/Image-blue?style=flat-square) ![](https://img.shields.io/badge/Style-ff0000?style=flat-square)
 
     *Namhyuk Ahn, Junsoo Lee, Chunggi Lee, Kunhee Kim, Daesik Kim, Seung-Hun Nam, Kibeom Hong.* AAAI 2023.
+
+- **[Kosmos-G: Generating Images in Context with Multimodal Large Language Models](https://arxiv.org/abs/2310.02992)** ![](https://img.shields.io/badge/Image-blue?style=flat-square) ![](https://img.shields.io/badge/Subject--Driven-orange?style=flat-square)
+
+    *Xichen Pan, Li Dong, Shaohan Huang, Zhiliang Peng, Wenhu Chen, Furu Wei.* Preprint 2023.
 
 - **[An Image is Worth Multiple Words: Learning Object Level Concepts using Multi-Concept Prompt Learning.](https://arxiv.org/abs/2310.12274)** ![](https://img.shields.io/badge/Image-blue?style=flat-square) ![](https://img.shields.io/badge/Subject--Driven-orange?style=flat-square)
 
@@ -159,6 +167,10 @@
 - **[UNIMO-G: Unified Image Generation through Multimodal Conditional Diffusion.](https://arxiv.org/abs/2401.13388)** ![](https://img.shields.io/badge/Image-blue?style=flat-square) ![](https://img.shields.io/badge/Subject--Driven-orange?style=flat-square)
 
     *Wei Li, Xue Xu, Jiachen Liu, Xinyan Xiao.* Preprint 2024 🔥
+
+- **[Object-Driven One-Shot Fine-tuning of Text-to-Image Diffusion with Prototypical Embedding](https://arxiv.org/abs/2401.15708)** ![](https://img.shields.io/badge/Image-blue?style=flat-square) ![](https://img.shields.io/badge/Subject--Driven-orange?style=flat-square)
+
+    *Jianxiang Lu, Cong Xie, Hui Guo.* Preprint 2024.
 
 
 
