@@ -1,14 +1,14 @@
-<h1 align="center">Awesome Controllable Diffusion</h1>
+<h1 align="center">Awesome Controllable Generation</h1>
 
 <p align="center">
-    <img src="https://awesome.re/badge.svg" href="https://github.com/atfortes/Awesome-Controllable-Diffusion"/>
+    <img src="https://awesome.re/badge.svg" href="https://github.com/atfortes/Awesome-Controllable-Generation"/>
     <img src="https://img.shields.io/badge/License-MIT-green.svg" href="https://opensource.org/licenses/MIT"/>
     <img src="https://img.shields.io/badge/PRs-Welcome-red"/>
-    <img src="https://img.shields.io/github/last-commit/atfortes/Awesome-Controllable-Diffusion?color=green"/>
+    <img src="https://img.shields.io/github/last-commit/atfortes/Awesome-Controllable-Generation?color=green"/>
 </p>
 
 <p align="center">
-    <b> Collection of papers and resources on how to add conditional controls to diffusion models.</b>
+    <b> Collection of papers and resources on adding conditional controls to deep generative models in the era of AIGC.</b>
 </p>
 
 <p align="center">
@@ -30,6 +30,8 @@
 
 
 - [Papers](#papers)
+  - [Diffusion Models](#diffusion-models)
+  - [Consistency Models](#consistency-models)
 - [Other Resources](#other-resources)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
@@ -37,6 +39,10 @@
 
  
 ## Papers
+
+
+
+### Diffusion
 
 
  
@@ -190,6 +196,20 @@
 
 
 
+### Consistency Models
+
+
+
+- **[CCM: Adding Conditional Controls to Text-to-Image Consistency Models](https://arxiv.org/abs/2312.06971)** ![](https://img.shields.io/badge/Image-blue?style=flat-square)![](https://img.shields.io/badge/Layout-a50b5e?style=flat-square)
+
+    *Jie Xiao, Kai Zhu, Han Zhang, Zhiheng Liu, Yujun Shen, Yu Liu, Xueyang Fu, Zheng-Jun Zha.* Preprint 2023.
+
+- **[PIXART-δ: Fast and Controllable Image Generation with Latent Consistency Models](https://arxiv.org/abs/2401.05252)** ![](https://img.shields.io/badge/Image-blue?style=flat-square)![](https://img.shields.io/badge/Layout-a50b5e?style=flat-square)
+
+    *Junsong Chen, Yue Wu, Simian Luo, Enze Xie, Sayak Paul, Ping Luo, Hang Zhao, Zhenguo Li.* Preprint 2024.
+
+
+
  ## Other Resources
 
  
@@ -218,6 +238,6 @@
 
 ### Contributors
 
-<a href="https://github.com/atfortes/Awesome-Controllable-Diffusion/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=atfortes/Awesome-Controllable-Diffusion" />
+<a href="https://github.com/atfortes/Awesome-Controllable-Generation/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=atfortes/Awesome-Controllable-Generation" />
 </a>
