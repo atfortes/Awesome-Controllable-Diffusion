@@ -42,7 +42,7 @@
 
 
 
-### Diffusion
+### Diffusion Models
 
 
  
