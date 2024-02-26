@@ -238,6 +238,8 @@
 
     *Chun-Hsiao Yeh, Ta-Ying Cheng, He-Yen Hsieh, Chuan-En Lin, Yi Ma, Andrew Markham, Niki Trigoni, H.T. Kung, Yubei Chen.* Preprint 2024.
 
+    <img src='https://github.com/louisYen/Gen4Gen/tree/main/assets/CVPR24-Gen4Gen-animation-HowItWorks.gif' style="width:100%">
+
 
 
 ### Consistency Models
