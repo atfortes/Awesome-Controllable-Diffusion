@@ -238,7 +238,11 @@
 
     *Chun-Hsiao Yeh, Ta-Ying Cheng, He-Yen Hsieh, Chuan-En Lin, Yi Ma, Andrew Markham, Niki Trigoni, H.T. Kung, Yubei Chen.* Preprint 2024.
 
-    <img src='https://github.com/louisYen/Gen4Gen/tree/main/assets/CVPR24-Gen4Gen-animation-HowItWorks.gif' style="width:100%">
+- **[Multi-LoRA Composition for Image Generation](https://arxiv.org/abs/2402.16843)** ![](https://img.shields.io/badge/Image-blue?style=flat-square)![](https://img.shields.io/badge/Compositionality-5218fa?style=flat-square)
+
+    *Ming Zhong, Yelong Shen, Shuohang Wang, Yadong Lu, Yizhu Jiao, Siru Ouyang, Donghan Yu, Jiawei Han, Weizhu Chen.* Preprint 2024. 🔥
+
+    <img src='https://github.com/maszhongming/Multi-LoRA-Composition/blob/main/images/intro_fig.png' style="width:100%">
 
 
 
