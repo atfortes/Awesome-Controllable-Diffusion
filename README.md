@@ -244,6 +244,12 @@
 
     <img src='https://github.com/maszhongming/Multi-LoRA-Composition/blob/main/images/intro_fig.png' style="width:100%">
 
+- **[Continuous, Subject-Specific Attribute Control in T2I Models by Identifying Semantic Directions](https://arxiv.org/abs/2403.17064)** ![](https://img.shields.io/badge/Image-blue?style=flat-square)![](https://img.shields.io/badge/Subject--Driven-orange?style=flat-square)![](https://img.shields.io/badge/Appearance-b78727?style=flat-square)![](https://img.shields.io/badge/Compositionality-5218fa?style=flat-square)
+
+    *Stefan Andreas Baumann, Felix Krause, Michael Neumayr, Nick Stracke, Vincent Tao Hu, Björn Ommer.* Preprint 2024. 🔥
+
+    <img src='https://compvis.github.io/attribute-control/static/images/teaser.jpg' style="width:100%">
+
 
 
 ### Consistency Models
