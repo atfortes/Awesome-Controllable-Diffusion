@@ -1,11 +1,13 @@
-<h1 align="center">Awesome Controllable Generation</h1>
+<a name="readme-top"></a>
 
-<p align="center">
-    <img src="https://awesome.re/badge.svg" href="https://github.com/atfortes/Awesome-Controllable-Generation"/>
-    <img src="https://img.shields.io/badge/License-MIT-green.svg" href="https://opensource.org/licenses/MIT"/>
-    <img src="https://img.shields.io/badge/PRs-Welcome-red"/>
-    <img src="https://img.shields.io/github/last-commit/atfortes/Awesome-Controllable-Generation?color=green"/>
-</p>
+<div align="center">
+  <a href="https://github.com/atfortes/Awesome-Controllable-Generation/graphs/contributors"><img src="https://img.shields.io/github/contributors/atfortes/Awesome-Controllable-Generation?style=for-the-badge" alt="Contributors"></a>
+  <a href="https://github.com/atfortes/Awesome-Controllable-Generation/network/members"><img src="https://img.shields.io/github/forks/atfortes/Awesome-Controllable-Generation?style=for-the-badge" alt="Forks"></a>
+  <a href="https://github.com/atfortes/Awesome-Controllable-Generation/stargazers"><img src="https://img.shields.io/github/stars/atfortes/Awesome-Controllable-Generation?style=for-the-badge" alt="Stargazers"></a>
+  <a href="https://github.com/atfortes/Awesome-Controllable-Generation/blob/main/LICENSE"><img src="https://img.shields.io/github/license/atfortes/Awesome-Controllable-Generation?style=for-the-badge" alt="MIT License"></a>
+</div>
+
+<h1 align="center">Awesome Controllable Generation</h1>
 
 <p align="center">
     <b> Papers and Resources on Adding Conditional Controls to Deep Generative Models in the Era of AIGC.</b>
@@ -15,30 +17,29 @@
      Dive into the cutting-edge of controllable generation in diffusion models, a field revolutionized by pioneering works like ControlNet <a href=https://arxiv.org/abs/2302.05543>[1]</a> and DreamBooth <a href=https://arxiv.org/abs/2302.05543>[2]</a>. This repository is invaluable for those interested in advanced techniques for fine-grained synthesis control, ranging from subject-driven generation to intricate layout manipulations. While ControlNet and DreamBooth are key highlights, the collection spans a broader spectrum, including recent advancements and applications in image, video, and 3D generation.
 </p>
 
-<p align="center">
-    <i>Updated daily</i>
-</p>
+<details>
+  <summary>🗂️ Table of Contents</summary>
+  <ol>
+    <li><a href="#papers">📝 Papers</a>
+      <ul>
+        <li><a href="#diffusion-models">Diffusion Models</a></li>
+        <li><a href="#consistency-models">Consistency Models</a></li>
+      </ul>
+    </li>
+    <li><a href="#other-resources">🔗 Other Resources</a></li>
+    <li><a href="#other-awesome-lists">🌟 Other Awesome Lists</a></li>
+    <li><a href="#contributing">✍️ Contributing</a></li>
+  </ol>
+</details>
 
-
-
-## Contents
-
-
-
-- [Papers](#papers)
-  - [Diffusion Models](#diffusion-models)
-  - [Consistency Models](#consistency-models)
-- [Other Resources](#other-resources)
-- [Other Awesome Lists](#other-awesome-lists)
-- [Contributing](#contributing)
 
 
  
-## Papers
+# 📝 Papers
 
 
 
-### Diffusion Models
+## Diffusion Models
 
 
  
@@ -382,9 +383,15 @@
 
     *Nithin Gopalakrishnan Nair, Jeya Maria Jose Valanarasu, Vishal M Patel.* Preprint 2024.
 
+<p align="right" style="font-size: 14px; color: #555; margin-top: 20px;">
+    <a href="#readme-top" style="text-decoration: none; color: #007bff; font-weight: bold;">
+        ↑ Back to Top ↑
+    </a>
+</p>
 
 
-### Consistency Models
+
+## Consistency Models
 
 
 
@@ -396,25 +403,43 @@
 
     *Junsong Chen, Yue Wu, Simian Luo, Enze Xie, Sayak Paul, Ping Luo, Hang Zhao, Zhenguo Li.* Preprint 2024.
 
+<p align="right" style="font-size: 14px; color: #555; margin-top: 20px;">
+    <a href="#readme-top" style="text-decoration: none; color: #007bff; font-weight: bold;">
+        ↑ Back to Top ↑
+    </a>
+</p>
 
 
- ## Other Resources
+
+ # 🔗 Other Resources
 
  
 
 - **[Regional Prompter](https://github.com/hako-mikan/sd-webui-regional-prompter)**  Set a prompt to a divided region.
 
+<p align="right" style="font-size: 14px; color: #555; margin-top: 20px;">
+    <a href="#readme-top" style="text-decoration: none; color: #007bff; font-weight: bold;">
+        ↑ Back to Top ↑
+    </a>
+</p>
+
 
  
- ## Other Awesome Lists
+ # 🌟 Other Awesome Lists
 
 
 
 - **[Awesome-LLM-Reasoning](https://github.com/atfortes/Awesome-LLM-Reasoning)**  Collection of papers and resources on Reasoning in Large Language Models.
 
+<p align="right" style="font-size: 14px; color: #555; margin-top: 20px;">
+    <a href="#readme-top" style="text-decoration: none; color: #007bff; font-weight: bold;">
+        ↑ Back to Top ↑
+    </a>
+</p>
 
 
-## Contributing
+
+# ✍️ Contributing
 
 
 
@@ -424,8 +449,12 @@
 
 **Don't worry if you do something wrong, it will be fixed for you!**
 
-### Contributors
+## Contributors
 
 <a href="https://github.com/atfortes/Awesome-Controllable-Generation/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=atfortes/Awesome-Controllable-Generation" />
 </a>
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=atfortes/Awesome-Controllable-Generation&type=Timeline)](https://star-history.com/#atfortes/Awesome-Controllable-Generation&Timeline)
