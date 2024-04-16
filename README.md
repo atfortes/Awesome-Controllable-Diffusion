@@ -344,7 +344,7 @@
 
     *Siying Cui, Jia Guo, Xiang An, Jiankang Deng, Yongle Zhao, Xinyu Wei, Ziyong Feng.* Preprint 2024. 🔥
 
-    <img src="assets/dco.png" style="width:100%">
+    <img src="assets/id-adapter.png" style="width:100%">
 
 - **[Be Yourself: Bounded Attention for Multi-Subject Text-to-Image Generation](https://arxiv.org/abs/2403.16990)**
 
@@ -352,7 +352,7 @@
 
     *Omer Dahary, Or Patashnik, Kfir Aberman, Daniel Cohen-Or.* Preprint 2024. 🔥
 
-    <img src="assets/dco.png" style="width:100%">
+    <img src="assets/be-yourself.png" style="width:100%">
 
 - **[FlashFace: Human Image Personalization with High-fidelity Identity Preservation](https://arxiv.org/abs/2403.17008)**
 
@@ -360,7 +360,7 @@
 
     *Shilong Zhang, Lianghua Huang, Xi Chen, Yifei Zhang, Zhi-Fan Wu, Yutong Feng, Wei Wang, Yujun Shen, Yu Liu, Ping Luo.* Preprint 2024. 🔥
 
-    <img src="assets/dco.png" style="width:100%">
+    <img src="assets/flashface.png" style="width:100%">
 
 - **[Concept Weaver: Enabling Multi-Concept Fusion in Text-to-Image Models](https://arxiv.org/abs/2404.03913)**
 
@@ -374,7 +374,7 @@
 
     *Sangwon Jang, Jaehyeong Jo, Kimin Lee, Sung Ju Hwang.* Preprint 2024. 🔥
 
-    <img src="assets/dco.png" style="width:100%">
+    <img src="assets/identity-decoupling.png" style="width:100%">
 
 - **[MaxFusion: Plug&Play Multi-Modal Generation in Text-to-Image Diffusion Models](https://arxiv.org/abs/2404.09977)**
 
