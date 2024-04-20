@@ -1,9 +1,9 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <a href="https://github.com/atfortes/Awesome-Controllable-Generation/graphs/contributors"><img src="https://img.shields.io/github/contributors/atfortes/Awesome-Controllable-Generation?style=for-the-badge" alt="Contributors"></a>
-  <a href="https://github.com/atfortes/Awesome-Controllable-Generation/network/members"><img src="https://img.shields.io/github/forks/atfortes/Awesome-Controllable-Generation?style=for-the-badge" alt="Forks"></a>
   <a href="https://github.com/atfortes/Awesome-Controllable-Generation/stargazers"><img src="https://img.shields.io/github/stars/atfortes/Awesome-Controllable-Generation?style=for-the-badge" alt="Stargazers"></a>
+  <a href="https://github.com/atfortes/Awesome-Controllable-Generation/network/members"><img src="https://img.shields.io/github/forks/atfortes/Awesome-Controllable-Generation?style=for-the-badge" alt="Forks"></a>
+  <a href="https://github.com/atfortes/Awesome-Controllable-Generation/graphs/contributors"><img src="https://img.shields.io/github/contributors/atfortes/Awesome-Controllable-Generation?style=for-the-badge" alt="Contributors"></a>
     <a href="https://github.com/atfortes/Awesome-Controllable-Generation/blob/main/README.md"><img src="https://img.shields.io/badge/Papers-58-58?style=for-the-badge" alt="Papers"></a>
   <a href="https://github.com/atfortes/Awesome-Controllable-Generation/blob/main/LICENSE"><img src="https://img.shields.io/github/license/atfortes/Awesome-Controllable-Generation?style=for-the-badge" alt="MIT License"></a>
 </div>
