@@ -402,6 +402,14 @@
 
     *Zezhong Fan, Xiaohan Li, Chenhao Fang, Topojoy Biswas, Kaushiki Nag, Jianpeng Xu, Kannan Achan.* WWW'24.
 
+- **[StyleBooth: Image Style Editing with Multimodal Instruction](https://arxiv.org/abs/2404.12154)**
+
+    ![](https://img.shields.io/badge/Image-blue?style=flat-square)![](https://img.shields.io/badge/Style-ff0000?style=flat-square)
+
+    *Zhen Han, Chaojie Mao, Zeyinzi Jiang, Yulin Pan, Jingfeng Zhang.* Preprint 2024. 🔥
+
+    <img src="assets/stylebooth.png" style="width:100%">
+
 <p align="right" style="font-size: 14px; color: #555; margin-top: 20px;">
     <a href="#readme-top" style="text-decoration: none; color: #007bff; font-weight: bold;">
         ↑ Back to Top ↑
