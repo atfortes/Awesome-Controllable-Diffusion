@@ -4,7 +4,7 @@
   <a href="https://github.com/atfortes/Awesome-Controllable-Generation/graphs/contributors"><img src="https://img.shields.io/github/contributors/atfortes/Awesome-Controllable-Generation?style=for-the-badge" alt="Contributors"></a>
   <a href="https://github.com/atfortes/Awesome-Controllable-Generation/network/members"><img src="https://img.shields.io/github/forks/atfortes/Awesome-Controllable-Generation?style=for-the-badge" alt="Forks"></a>
   <a href="https://github.com/atfortes/Awesome-Controllable-Generation/stargazers"><img src="https://img.shields.io/github/stars/atfortes/Awesome-Controllable-Generation?style=for-the-badge" alt="Stargazers"></a>
-    <a href="https://github.com/atfortes/Awesome-Controllable-Generation/blob/main/README.md"><img src="https://img.shields.io/badge/Papers-57-57?style=for-the-badge" alt="Papers"></a>
+    <a href="https://github.com/atfortes/Awesome-Controllable-Generation/blob/main/README.md"><img src="https://img.shields.io/badge/Papers-58-58?style=for-the-badge" alt="Papers"></a>
   <a href="https://github.com/atfortes/Awesome-Controllable-Generation/blob/main/LICENSE"><img src="https://img.shields.io/github/license/atfortes/Awesome-Controllable-Generation?style=for-the-badge" alt="MIT License"></a>
 </div>
 
@@ -377,6 +377,12 @@
     *Sangwon Jang, Jaehyeong Jo, Kimin Lee, Sung Ju Hwang.* Preprint 2024. 🔥
 
     <img src="assets/identity-decoupling.png" style="width:100%">
+
+- **[ControlNet++: Improving Conditional Controls with Efficient Consistency Feedback](https://arxiv.org/abs/2404.07987)**
+
+    ![](https://img.shields.io/badge/Image-blue?style=flat-square)![](https://img.shields.io/badge/Layout-a50b5e?style=flat-square)
+
+    *Ming Li, Taojiannan Yang, Huafeng Kuang, Jie Wu, Zhaoning Wang, Xuefeng Xiao, Chen Chen.* Preprint 2024.
 
 - **[Ctrl-Adapter: An Efficient and Versatile Framework for Adapting Diverse Controls to Any Diffusion Model](https://arxiv.org/abs/2404.09967)**
 
