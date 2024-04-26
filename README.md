@@ -416,6 +416,12 @@
 
     <img src="assets/stylebooth.png" style="width:100%">
 
+- **[MultiBooth: Towards Generating All Your Concepts in an Image from Text](https://arxiv.org/abs/2404.14239)**
+
+    ![](https://img.shields.io/badge/Image-blue?style=flat-square)![](https://img.shields.io/badge/Subject--Driven-orange?style=flat-square)![](https://img.shields.io/badge/Compositionality-5218fa?style=flat-square)
+
+    *Chenyang Zhu, Kai Li, Yue Ma, Chunming He, Li Xiu.* Preprint 2024.
+
 <p align="right" style="font-size: 14px; color: #555; margin-top: 20px;">
     <a href="#readme-top" style="text-decoration: none; color: #007bff; font-weight: bold;">
         ↑ Back to Top ↑
