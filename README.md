@@ -4,7 +4,7 @@
   <a href="https://github.com/atfortes/Awesome-Controllable-Generation/stargazers"><img src="https://img.shields.io/github/stars/atfortes/Awesome-Controllable-Generation?style=for-the-badge" alt="Stargazers"></a>
   <a href="https://github.com/atfortes/Awesome-Controllable-Generation/network/members"><img src="https://img.shields.io/github/forks/atfortes/Awesome-Controllable-Generation?style=for-the-badge" alt="Forks"></a>
   <a href="https://github.com/atfortes/Awesome-Controllable-Generation/graphs/contributors"><img src="https://img.shields.io/github/contributors/atfortes/Awesome-Controllable-Generation?style=for-the-badge" alt="Contributors"></a>
-    <a href="https://github.com/atfortes/Awesome-Controllable-Generation/blob/main/README.md"><img src="https://img.shields.io/badge/Papers-58-58?style=for-the-badge" alt="Papers"></a>
+    <a href="https://github.com/atfortes/Awesome-Controllable-Generation/blob/main/README.md"><img src="https://img.shields.io/badge/Papers-65-65?style=for-the-badge" alt="Papers"></a>
   <a href="https://github.com/atfortes/Awesome-Controllable-Generation/blob/main/LICENSE"><img src="https://img.shields.io/github/license/atfortes/Awesome-Controllable-Generation?style=for-the-badge" alt="MIT License"></a>
 </div>
 
@@ -412,7 +412,9 @@
 
     ![](https://img.shields.io/badge/Image-blue?style=flat-square)![](https://img.shields.io/badge/Subject--Driven-orange?style=flat-square)
 
-    *Kunpeng Song, Yizhe Zhu, Bingchen Liu, Qing Yan, Ahmed Elgammal, Xiao Yang.* Preprint 2024.
+    *Kunpeng Song, Yizhe Zhu, Bingchen Liu, Qing Yan, Ahmed Elgammal, Xiao Yang.* Preprint 2024. 🔥
+
+    <img src="assets/moma.png" style="width:100%">
 
 - **[StyleBooth: Image Style Editing with Multimodal Instruction](https://arxiv.org/abs/2404.12154)**
 
@@ -427,6 +429,38 @@
     ![](https://img.shields.io/badge/Image-blue?style=flat-square)![](https://img.shields.io/badge/Subject--Driven-orange?style=flat-square)![](https://img.shields.io/badge/Compositionality-5218fa?style=flat-square)
 
     *Chenyang Zhu, Kai Li, Yue Ma, Chunming He, Li Xiu.* Preprint 2024.
+
+- **[ID-Aligner: Enhancing Identity-Preserving Text-to-Image Generation with Reward Feedback Learning](https://arxiv.org/abs/2404.15449)**
+
+    ![](https://img.shields.io/badge/Image-blue?style=flat-square)![](https://img.shields.io/badge/Subject--Driven-orange?style=flat-square)
+
+    *Weifeng Chen, Jiacheng Zhang, Jie Wu, Hefeng Wu, Xuefeng Xiao, Liang Lin.* Preprint 2024.
+
+- **[PuLID: Pure and Lightning ID Customization via Contrastive Alignment](https://arxiv.org/abs/2404.16022)**
+
+    ![](https://img.shields.io/badge/Image-blue?style=flat-square)![](https://img.shields.io/badge/Subject--Driven-orange?style=flat-square)
+
+    *Zinan Guo, Yanze Wu, Zhuowei Chen, Lang Chen, Qian He.* Preprint 2024.
+
+- **[InstantFamily: Masked Attention for Zero-shot Multi-ID Image Generation](https://arxiv.org/abs/2404.19427)**
+
+    ![](https://img.shields.io/badge/Image-blue?style=flat-square)![](https://img.shields.io/badge/Subject--Driven-orange?style=flat-square)![](https://img.shields.io/badge/Compositionality-5218fa?style=flat-square)
+
+    *Chanran Kim, Jeongin Lee, Shichang Joung, Bongmo Kim, Yeul-Min Baek.* Preprint 2024.
+
+- **[StoryDiffusion: Consistent Self-Attention for Long-Range Image and Video Generation](https://arxiv.org/abs/2405.01434)**
+
+    ![](https://img.shields.io/badge/Image-blue?style=flat-square)![](https://img.shields.io/badge/Video-9370db?style=flat-square)![](https://img.shields.io/badge/Consistency-ff69b4?style=flat-square)
+
+    *Yupeng Zhou, Daquan Zhou, Ming-Ming Cheng, Jiashi Feng, Qibin Hou.* Preprint 2024. 🔥
+
+    <img src="assets/story-diffusion.png" style="width:100%">
+
+- **[Customizing Text-to-Image Models with a Single Image Pair](https://arxiv.org/abs/2405.01536)**
+
+    ![](https://img.shields.io/badge/Image-blue?style=flat-square)![](https://img.shields.io/badge/Subject--Driven-orange?style=flat-square)
+
+    *Maxwell Jones, Sheng-Yu Wang, Nupur Kumari, David Bau, Jun-Yan Zhu.* Preprint 2024.
 
 <p align="right" style="font-size: 14px; color: #555; margin-top: 20px;">
     <a href="#readme-top" style="text-decoration: none; color: #007bff; font-weight: bold;">
