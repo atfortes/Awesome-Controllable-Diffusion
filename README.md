@@ -468,7 +468,7 @@
 
     *Weili Nie, Sifei Liu, Morteza Mardani, Chao Liu, Benjamin Eckart, Arash Vahdat.* ICML 2024. 🔥
 
-    <img src="assets/story-diffusion.png" style="width:100%">
+    <img src="assets/blob.png" style="width:100%">
 
 1. **[FreeCustom: Tuning-Free Customized Image Generation for Multi-Concept Composition](https://arxiv.org/abs/2405.13870)**
 
@@ -482,7 +482,7 @@
 
     *Litu Rout, Yujia Chen, Nataniel Ruiz, Abhishek Kumar, Constantine Caramanis, Sanjay Shakkottai, Wen-Sheng Chu.* Preprint 2024. 🔥
 
-    <img src="assets/story-diffusion.png" style="width:100%">
+    <img src="assets/rb.png" style="width:100%">
 
 <p align="right" style="font-size: 14px; color: #555; margin-top: 20px;">
     <a href="#readme-top" style="text-decoration: none; color: #007bff; font-weight: bold;">
