@@ -462,6 +462,28 @@
 
     *Maxwell Jones, Sheng-Yu Wang, Nupur Kumari, David Bau, Jun-Yan Zhu.* Preprint 2024.
 
+1. **[Compositional Text-to-Image Generation with Dense Blob Representations](https://arxiv.org/abs/2405.08246)**
+
+    ![](https://img.shields.io/badge/Image-blue?style=flat-square)![](https://img.shields.io/badge/Layout-a50b5e?style=flat-square)![](https://img.shields.io/badge/Compositionality-5218fa?style=flat-square)
+
+    *Weili Nie, Sifei Liu, Morteza Mardani, Chao Liu, Benjamin Eckart, Arash Vahdat.* ICML 2024. 🔥
+
+    <img src="assets/story-diffusion.png" style="width:100%">
+
+1. **[FreeCustom: Tuning-Free Customized Image Generation for Multi-Concept Composition](https://arxiv.org/abs/2405.13870)**
+
+    ![](https://img.shields.io/badge/Image-blue?style=flat-square)![](https://img.shields.io/badge/Subject--Driven-orange?style=flat-square)![](https://img.shields.io/badge/Compositionality-5218fa?style=flat-square)
+
+    *Ganggui Ding, Canyu Zhao, Wen Wang, Zhen Yang, Zide Liu, Hao Chen, Chunhua Shen.* CVPR 2024.
+
+1. **[RB-Modulation: Training-Free Personalization of Diffusion Models using Stochastic Optimal Control](https://arxiv.org/abs/2405.17401)**
+
+    ![](https://img.shields.io/badge/Image-blue?style=flat-square)![](https://img.shields.io/badge/Subject--Driven-orange?style=flat-square)![](https://img.shields.io/badge/Style-ff0000?style=flat-square)![](https://img.shields.io/badge/Compositionality-5218fa?style=flat-square)
+
+    *Litu Rout, Yujia Chen, Nataniel Ruiz, Abhishek Kumar, Constantine Caramanis, Sanjay Shakkottai, Wen-Sheng Chu.* Preprint 2024. 🔥
+
+    <img src="assets/story-diffusion.png" style="width:100%">
+
 <p align="right" style="font-size: 14px; color: #555; margin-top: 20px;">
     <a href="#readme-top" style="text-decoration: none; color: #007bff; font-weight: bold;">
         ↑ Back to Top ↑
