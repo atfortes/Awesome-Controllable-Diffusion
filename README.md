@@ -481,6 +481,12 @@
 
     <img src="assets/rb.png" style="width:100%">
 
+1. **[MS-Diffusion: Multi-subject Zero-shot Image Personalization with Layout Guidance](https://arxiv.org/abs/2406.07209)**
+
+    ![](https://img.shields.io/badge/Image-blue?style=flat-square)![](https://img.shields.io/badge/Subject--Driven-orange?style=flat-square)![](https://img.shields.io/badge/Compositionality-5218fa?style=flat-square)
+
+    *X. Wang, Siming Fu, Qihan Huang, Wanggui He, Hao Jiang.* Preprint 2024.
+
 1. **[Zero-Painter: Training-Free Layout Control for Text-to-Image Synthesis](https://arxiv.org/abs/2406.04032)**
 
     ![](https://img.shields.io/badge/Image-blue?style=flat-square)![](https://img.shields.io/badge/Layout-a50b5e?style=flat-square)
