@@ -4,7 +4,7 @@
   <a href="https://github.com/atfortes/Awesome-Controllable-Generation/stargazers"><img src="https://img.shields.io/github/stars/atfortes/Awesome-Controllable-Generation?style=for-the-badge" alt="Stargazers"></a>
   <a href="https://github.com/atfortes/Awesome-Controllable-Generation/network/members"><img src="https://img.shields.io/github/forks/atfortes/Awesome-Controllable-Generation?style=for-the-badge" alt="Forks"></a>
   <a href="https://github.com/atfortes/Awesome-Controllable-Generation/graphs/contributors"><img src="https://img.shields.io/github/contributors/atfortes/Awesome-Controllable-Generation?style=for-the-badge" alt="Contributors"></a>
-    <a href="https://github.com/atfortes/Awesome-Controllable-Generation/blob/main/README.md"><img src="https://img.shields.io/badge/Papers-67-67?style=for-the-badge" alt="Papers"></a>
+    <a href="https://github.com/atfortes/Awesome-Controllable-Generation/blob/main/README.md"><img src="https://img.shields.io/badge/Papers-80-80?style=for-the-badge" alt="Papers"></a>
   <a href="https://github.com/atfortes/Awesome-Controllable-Generation/blob/main/LICENSE"><img src="https://img.shields.io/github/license/atfortes/Awesome-Controllable-Generation?style=for-the-badge" alt="MIT License"></a>
 </div>
 
@@ -329,6 +329,14 @@
     ![](https://img.shields.io/badge/Image-blue?style=flat-square)![](https://img.shields.io/badge/Composition-5218fa?style=flat-square)
 
     *Ming Zhong, Yelong Shen, Shuohang Wang, Yadong Lu, Yizhu Jiao, Siru Ouyang, Donghan Yu, Jiawei Han, Weizhu Chen.* Preprint 2024.
+
+1. **[FeedFace: Efficient Inference-based Face Personalization via Diffusion Models](https://openreview.net/forum?id=PqPKBcamy3)**
+
+    ![](https://img.shields.io/badge/Image-blue?style=flat-square)![](https://img.shields.io/badge/Subject--Driven-orange?style=flat-square)
+
+    *Chendong Xiang, Armando Fortes, Khang Hui Chua, Hang Su, Jun Zhu.* Tiny Papers @ ICLR 2024. 🔥
+
+    <img src="assets/feedface.png" style="width:100%">
 
 1. **[Continuous, Subject-Specific Attribute Control in T2I Models by Identifying Semantic Directions](https://arxiv.org/abs/2403.17064)**
 
