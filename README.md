@@ -11,7 +11,7 @@
 <h1 align="center">Awesome Controllable Generation</h1>
 
 <p align="center">
-    <b> Papers and Resources on Adding Conditional Controls to Deep Generative Models in the Era of AIGC.</b>
+    <b> Papers and Resources on Adding Conditional Controls to Diffusion Models in the Era of AIGC.</b>
 </p>
 
 <p align="center">
@@ -24,7 +24,6 @@
     <li><a href="#papers">📝 Papers</a>
       <ul>
         <li><a href="#diffusion-models">Diffusion Models</a></li>
-        <li><a href="#consistency-models">Consistency Models</a></li>
       </ul>
     </li>
     <li><a href="#other-resources">🔗 Other Resources</a></li>
@@ -139,7 +138,7 @@
 
 1. **[Kosmos-G: Generating Images in Context with Multimodal Large Language Models](https://arxiv.org/abs/2310.02992)**
 
-    ![](https://img.shields.io/badge/Image-blue?style=flat-square)![](https://img.shields.io/badge/Subject--Driven-orange?style=flat-square)![](https://img.shields.io/badge/Compositionality-5218fa?style=flat-square)
+    ![](https://img.shields.io/badge/Image-blue?style=flat-square)![](https://img.shields.io/badge/Subject--Driven-orange?style=flat-square)![](https://img.shields.io/badge/Composition-5218fa?style=flat-square)
 
     *Xichen Pan, Li Dong, Shaohan Huang, Zhiliang Peng, Wenhu Chen, Furu Wei.* Preprint 2023. 🔥
 
@@ -251,7 +250,7 @@
 
 1. **[UNIMO-G: Unified Image Generation through Multimodal Conditional Diffusion.](https://arxiv.org/abs/2401.13388)**
 
-    ![](https://img.shields.io/badge/Image-blue?style=flat-square)![](https://img.shields.io/badge/Subject--Driven-orange?style=flat-square)![](https://img.shields.io/badge/Compositionality-5218fa?style=flat-square)
+    ![](https://img.shields.io/badge/Image-blue?style=flat-square)![](https://img.shields.io/badge/Subject--Driven-orange?style=flat-square)![](https://img.shields.io/badge/Composition-5218fa?style=flat-square)
 
     *Wei Li, Xue Xu, Jiachen Liu, Xinyan Xiao.* Preprint 2024 🔥
 
@@ -295,7 +294,7 @@
 
 1. **[Direct Consistency Optimization for Compositional Text-to-Image Personalization](https://arxiv.org/abs/2402.12004)**
 
-    ![](https://img.shields.io/badge/Image-blue?style=flat-square)![](https://img.shields.io/badge/Subject--Driven-orange?style=flat-square)![](https://img.shields.io/badge/Compositionality-5218fa?style=flat-square)
+    ![](https://img.shields.io/badge/Image-blue?style=flat-square)![](https://img.shields.io/badge/Subject--Driven-orange?style=flat-square)![](https://img.shields.io/badge/Composition-5218fa?style=flat-square)
 
     *Kyungmin Lee, Sangkyung Kwak, Kihyuk Sohn, Jinwoo Shin.* Preprint 2024. 🔥
 
@@ -303,13 +302,13 @@
 
 1. **[MuLan: Multimodal-LLM Agent for Progressive Multi-Object Diffusion](https://arxiv.org/abs/2402.12741)**
 
-    ![](https://img.shields.io/badge/Image-blue?style=flat-square)![](https://img.shields.io/badge/Compositionality-5218fa?style=flat-square)
+    ![](https://img.shields.io/badge/Image-blue?style=flat-square)![](https://img.shields.io/badge/Composition-5218fa?style=flat-square)
 
     *Sen Li, Ruochen Wang, Cho-Jui Hsieh, Minhao Cheng, Tianyi Zhou.* Preprint 2024.
 
-1. **[RealCompo: Dynamic Equilibrium between Realism and Compositionality Improves Text-to-Image Diffusion Models](https://arxiv.org/abs/2402.12908)**
+1. **[RealCompo: Dynamic Equilibrium between Realism and Composition Improves Text-to-Image Diffusion Models](https://arxiv.org/abs/2402.12908)**
 
-    ![](https://img.shields.io/badge/Image-blue?style=flat-square)![](https://img.shields.io/badge/Compositionality-5218fa?style=flat-square)
+    ![](https://img.shields.io/badge/Image-blue?style=flat-square)![](https://img.shields.io/badge/Composition-5218fa?style=flat-square)
 
     *Xinchen Zhang, Ling Yang, Yaqi Cai, Zhaochen Yu, Jiake Xie, Ye Tian, Minkai Xu, Yong Tang, Yujiu Yang, Bin Cui.* Preprint 2024.
 
@@ -321,13 +320,13 @@
 
 1. **[Gen4Gen: Generative Data Pipeline for Generative Multi-Concept Composition](https://arxiv.org/abs/2402.15504)**
 
-    ![](https://img.shields.io/badge/Image-blue?style=flat-square)![](https://img.shields.io/badge/Subject--Driven-orange?style=flat-square)![](https://img.shields.io/badge/Compositionality-5218fa?style=flat-square)
+    ![](https://img.shields.io/badge/Image-blue?style=flat-square)![](https://img.shields.io/badge/Subject--Driven-orange?style=flat-square)![](https://img.shields.io/badge/Composition-5218fa?style=flat-square)
 
     *Chun-Hsiao Yeh, Ta-Ying Cheng, He-Yen Hsieh, Chuan-En Lin, Yi Ma, Andrew Markham, Niki Trigoni, H.T. Kung, Yubei Chen.* Preprint 2024.
 
 1. **[Multi-LoRA Composition for Image Generation](https://arxiv.org/abs/2402.16843)**
 
-    ![](https://img.shields.io/badge/Image-blue?style=flat-square)![](https://img.shields.io/badge/Compositionality-5218fa?style=flat-square)
+    ![](https://img.shields.io/badge/Image-blue?style=flat-square)![](https://img.shields.io/badge/Composition-5218fa?style=flat-square)
 
     *Ming Zhong, Yelong Shen, Shuohang Wang, Yadong Lu, Yizhu Jiao, Siru Ouyang, Donghan Yu, Jiawei Han, Weizhu Chen.* Preprint 2024.
 
@@ -347,7 +346,7 @@
 
 1. **[Be Yourself: Bounded Attention for Multi-Subject Text-to-Image Generation](https://arxiv.org/abs/2403.16990)**
 
-    ![](https://img.shields.io/badge/Image-blue?style=flat-square)![](https://img.shields.io/badge/Compositionality-5218fa?style=flat-square)
+    ![](https://img.shields.io/badge/Image-blue?style=flat-square)![](https://img.shields.io/badge/Composition-5218fa?style=flat-square)
 
     *Omer Dahary, Or Patashnik, Kfir Aberman, Daniel Cohen-Or.* Preprint 2024. 🔥
 
@@ -363,13 +362,13 @@
 
 1. **[Concept Weaver: Enabling Multi-Concept Fusion in Text-to-Image Models](https://arxiv.org/abs/2404.03913)**
 
-    ![](https://img.shields.io/badge/Image-blue?style=flat-square)![](https://img.shields.io/badge/Subject--Driven-orange?style=flat-square)![](https://img.shields.io/badge/Compositionality-5218fa?style=flat-square)
+    ![](https://img.shields.io/badge/Image-blue?style=flat-square)![](https://img.shields.io/badge/Subject--Driven-orange?style=flat-square)![](https://img.shields.io/badge/Composition-5218fa?style=flat-square)
 
     *Gihyun Kwon, Simon Jenni, Dingzeyu Li, Joon-Young Lee, Jong Chul Ye, Fabian Caba Heilbron.* Preprint 2024.
 
 1. **[Identity Decoupling for Multi-Subject Personalization of Text-to-Image Models](https://arxiv.org/abs/2404.04243)**
 
-    ![](https://img.shields.io/badge/Image-blue?style=flat-square)![](https://img.shields.io/badge/Subject--Driven-orange?style=flat-square)![](https://img.shields.io/badge/Compositionality-5218fa?style=flat-square)
+    ![](https://img.shields.io/badge/Image-blue?style=flat-square)![](https://img.shields.io/badge/Subject--Driven-orange?style=flat-square)![](https://img.shields.io/badge/Composition-5218fa?style=flat-square)
 
     *Sangwon Jang, Jaehyeong Jo, Kimin Lee, Sung Ju Hwang.* Preprint 2024. 🔥
 
@@ -389,13 +388,13 @@
 
 1. **[MaxFusion: Plug&Play Multi-Modal Generation in Text-to-Image Diffusion Models](https://arxiv.org/abs/2404.09977)**
 
-    ![](https://img.shields.io/badge/Image-blue?style=flat-square)![](https://img.shields.io/badge/Compositionality-5218fa?style=flat-square)
+    ![](https://img.shields.io/badge/Image-blue?style=flat-square)![](https://img.shields.io/badge/Composition-5218fa?style=flat-square)
 
     *Nithin Gopalakrishnan Nair, Jeya Maria Jose Valanarasu, Vishal M Patel.* Preprint 2024.
 
 1. **[MoA: Mixture-of-Attention for Subject-Context Disentanglement in Personalized Image Generation](https://arxiv.org/abs/2404.11565)**
 
-    ![](https://img.shields.io/badge/Image-blue?style=flat-square)![](https://img.shields.io/badge/Subject--Driven-orange?style=flat-square)![](https://img.shields.io/badge/Compositionality-5218fa?style=flat-square)
+    ![](https://img.shields.io/badge/Image-blue?style=flat-square)![](https://img.shields.io/badge/Subject--Driven-orange?style=flat-square)![](https://img.shields.io/badge/Composition-5218fa?style=flat-square)
 
     *Kuan-Chieh Wang, Daniil Ostashev, Yuwei Fang, Sergey Tulyakov, Kfir Aberman.* Preprint 2024.
 
@@ -423,7 +422,7 @@
 
 1. **[MultiBooth: Towards Generating All Your Concepts in an Image from Text](https://arxiv.org/abs/2404.14239)**
 
-    ![](https://img.shields.io/badge/Image-blue?style=flat-square)![](https://img.shields.io/badge/Subject--Driven-orange?style=flat-square)![](https://img.shields.io/badge/Compositionality-5218fa?style=flat-square)
+    ![](https://img.shields.io/badge/Image-blue?style=flat-square)![](https://img.shields.io/badge/Subject--Driven-orange?style=flat-square)![](https://img.shields.io/badge/Composition-5218fa?style=flat-square)
 
     *Chenyang Zhu, Kai Li, Yue Ma, Chunming He, Li Xiu.* Preprint 2024.
 
@@ -441,7 +440,7 @@
 
 1. **[InstantFamily: Masked Attention for Zero-shot Multi-ID Image Generation](https://arxiv.org/abs/2404.19427)**
 
-    ![](https://img.shields.io/badge/Image-blue?style=flat-square)![](https://img.shields.io/badge/Subject--Driven-orange?style=flat-square)![](https://img.shields.io/badge/Compositionality-5218fa?style=flat-square)
+    ![](https://img.shields.io/badge/Image-blue?style=flat-square)![](https://img.shields.io/badge/Subject--Driven-orange?style=flat-square)![](https://img.shields.io/badge/Composition-5218fa?style=flat-square)
 
     *Chanran Kim, Jeongin Lee, Shichang Joung, Bongmo Kim, Yeul-Min Baek.* Preprint 2024.
 
@@ -461,7 +460,7 @@
 
 1. **[Compositional Text-to-Image Generation with Dense Blob Representations](https://arxiv.org/abs/2405.08246)**
 
-    ![](https://img.shields.io/badge/Image-blue?style=flat-square)![](https://img.shields.io/badge/Layout-a50b5e?style=flat-square)![](https://img.shields.io/badge/Compositionality-5218fa?style=flat-square)
+    ![](https://img.shields.io/badge/Image-blue?style=flat-square)![](https://img.shields.io/badge/Layout-a50b5e?style=flat-square)![](https://img.shields.io/badge/Composition-5218fa?style=flat-square)
 
     *Weili Nie, Sifei Liu, Morteza Mardani, Chao Liu, Benjamin Eckart, Arash Vahdat.* ICML 2024. 🔥
 
@@ -469,13 +468,13 @@
 
 1. **[FreeCustom: Tuning-Free Customized Image Generation for Multi-Concept Composition](https://arxiv.org/abs/2405.13870)**
 
-    ![](https://img.shields.io/badge/Image-blue?style=flat-square)![](https://img.shields.io/badge/Subject--Driven-orange?style=flat-square)![](https://img.shields.io/badge/Compositionality-5218fa?style=flat-square)
+    ![](https://img.shields.io/badge/Image-blue?style=flat-square)![](https://img.shields.io/badge/Subject--Driven-orange?style=flat-square)![](https://img.shields.io/badge/Composition-5218fa?style=flat-square)
 
     *Ganggui Ding, Canyu Zhao, Wen Wang, Zhen Yang, Zide Liu, Hao Chen, Chunhua Shen.* CVPR 2024.
 
 1. **[RB-Modulation: Training-Free Personalization of Diffusion Models using Stochastic Optimal Control](https://arxiv.org/abs/2405.17401)**
 
-    ![](https://img.shields.io/badge/Image-blue?style=flat-square)![](https://img.shields.io/badge/Subject--Driven-orange?style=flat-square)![](https://img.shields.io/badge/Style-ff0000?style=flat-square)![](https://img.shields.io/badge/Compositionality-5218fa?style=flat-square)
+    ![](https://img.shields.io/badge/Image-blue?style=flat-square)![](https://img.shields.io/badge/Subject--Driven-orange?style=flat-square)![](https://img.shields.io/badge/Style-ff0000?style=flat-square)![](https://img.shields.io/badge/Composition-5218fa?style=flat-square)
 
     *Litu Rout, Yujia Chen, Nataniel Ruiz, Abhishek Kumar, Constantine Caramanis, Sanjay Shakkottai, Wen-Sheng Chu.* Preprint 2024. 🔥
 
@@ -483,7 +482,7 @@
 
 1. **[MS-Diffusion: Multi-subject Zero-shot Image Personalization with Layout Guidance](https://arxiv.org/abs/2406.07209)**
 
-    ![](https://img.shields.io/badge/Image-blue?style=flat-square)![](https://img.shields.io/badge/Subject--Driven-orange?style=flat-square)![](https://img.shields.io/badge/Compositionality-5218fa?style=flat-square)
+    ![](https://img.shields.io/badge/Image-blue?style=flat-square)![](https://img.shields.io/badge/Subject--Driven-orange?style=flat-square)![](https://img.shields.io/badge/Composition-5218fa?style=flat-square)
 
     *X. Wang, Siming Fu, Qihan Huang, Wanggui He, Hao Jiang.* Preprint 2024.
 
@@ -508,6 +507,67 @@
     ![](https://img.shields.io/badge/3D-3cb371?style=flat-square)![](https://img.shields.io/badge/Subject--Driven-orange?style=flat-square)
 
     *Nikos Kolotouros, Thiemo Alldieck, Enric Corona, Eduard Gabriel Bazavan, Cristian Sminchisescu.* Preprint 2024.
+
+1. **[Personalized Residuals for Concept-Driven Text-to-Image Generation](https://arxiv.org/abs/2405.12978)**
+
+    ![](https://img.shields.io/badge/Image-blue?style=flat-square)![](https://img.shields.io/badge/Subject--Driven-orange?style=flat-square)
+
+    *Cusuh Ham, Matthew Fisher, James Hays, Nicholas Kolkin, Yuchen Liu, Richard Zhang, Tobias Hinz.* CVPR 2024.
+
+1. **[pOps: Photo-Inspired Diffusion Operators](https://arxiv.org/abs/2406.01300)**
+
+    ![](https://img.shields.io/badge/Image-blue?style=flat-square)![](https://img.shields.io/badge/Subject--Driven-orange?style=flat-square)![](https://img.shields.io/badge/Composition-5218fa?style=flat-square)
+
+    *Elad Richardson, Yuval Alaluf, Ali Mahdavi-Amiri, Daniel Cohen-Or.* Preprint 2024. 🔥
+
+    <img src="assets/pops.png" style="width:100%">
+
+1. **[EMMA: Your Text-to-Image Diffusion Model Can Secretly Accept Multi-Modal Prompts](https://arxiv.org/abs/2406.09162)**
+
+    ![](https://img.shields.io/badge/Image-blue?style=flat-square)![](https://img.shields.io/badge/Subject--Driven-orange?style=flat-square)
+
+    *Yucheng Han, Rui Wang, Chi Zhang, Juntao Hu, Pei Cheng, Bin Fu, Hanwang Zhang.* Preprint 2024.
+
+1. **[Sketch-Guided Scene Image Generation](https://arxiv.org/abs/2407.06469)**
+
+    ![](https://img.shields.io/badge/Image-blue?style=flat-square)![](https://img.shields.io/badge/Layout-a50b5e?style=flat-square)
+
+    *Tianyu Zhang, Xiaoxuan Xie, Xusheng Du, Haoran Xie.* Preprint 2024.
+
+1. **[SEED-Story: Multimodal Long Story Generation with Large Language Model](https://arxiv.org/abs/2407.08683)**
+
+    ![](https://img.shields.io/badge/Image-blue?style=flat-square)![](https://img.shields.io/badge/Consistency-ff69b4?style=flat-square)
+
+    *Shuai Yang, Yuying Ge, Yang Li, Yukang Chen, Yixiao Ge, Ying Shan, Yingcong Chen.* Preprint 2024.
+
+1. **[Training-free Composite Scene Generation for Layout-to-Image Synthesis](https://arxiv.org/abs/2407.13609)**
+
+    ![](https://img.shields.io/badge/Image-blue?style=flat-square)![](https://img.shields.io/badge/Layout-a50b5e?style=flat-square)![](https://img.shields.io/badge/Composition-5218fa?style=flat-square)
+
+    *Jiaqi Liu, Tao Huang, Chang Xu.* ECCV 2024. 🔥
+
+    <img src="assets/free-comp.png" style="width:100%">
+
+1. **[ViPer: Visual Personalization of Generative Models via Individual Preference Learning](https://arxiv.org/abs/2407.17365)**
+
+    ![](https://img.shields.io/badge/Image-blue?style=flat-square)![](https://img.shields.io/badge/Style-ff0000?style=flat-square)
+
+    *Sogand Salehi, Mahdi Shafiei, Teresa Yeo, Roman Bachmann, Amir Zamir.* Preprint 2024.
+
+1. **[IPAdapter-Instruct: Resolving Ambiguity in Image-based Conditioning using Instruct Prompts](https://arxiv.org/abs/2408.03209)**
+
+    ![](https://img.shields.io/badge/Image-blue?style=flat-square)![](https://img.shields.io/badge/Subject--Driven-orange?style=flat-square)![](https://img.shields.io/badge/Style-ff0000?style=flat-square)
+
+    *Ciara Rowles, Shimon Vainer, Dante De Nigris, Slava Elizarov, Konstantin Kutsy, Simon Donné.* Preprint 2024. 🔥
+
+    <img src="assets/ipa-instruct.png" style="width:100%">
+
+1. **[Sketch2Scene: Automatic Generation of Interactive 3D Game Scenes from User's Casual Sketches](https://arxiv.org/abs/2408.03209)**
+
+    ![](https://img.shields.io/badge/3D-3cb371?style=flat-square)![](https://img.shields.io/badge/Layout-a50b5e?style=flat-square)
+
+    *Yongzhi Xu, Yonhon Ng, Yifu Wang, Inkyu Sa, Yunfei Duan, Yang Li, Pan Ji, Hongdong Li.* Preprint 2024.
+
 
 <p align="right" style="font-size: 14px; color: #555; margin-top: 20px;">
     <a href="#readme-top" style="text-decoration: none; color: #007bff; font-weight: bold;">
