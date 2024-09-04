@@ -1,14 +1,14 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <a href="https://github.com/atfortes/Awesome-Controllable-Generation/stargazers"><img src="https://img.shields.io/github/stars/atfortes/Awesome-Controllable-Generation?style=for-the-badge" alt="Stargazers"></a>
-  <a href="https://github.com/atfortes/Awesome-Controllable-Generation/network/members"><img src="https://img.shields.io/github/forks/atfortes/Awesome-Controllable-Generation?style=for-the-badge" alt="Forks"></a>
-  <a href="https://github.com/atfortes/Awesome-Controllable-Generation/graphs/contributors"><img src="https://img.shields.io/github/contributors/atfortes/Awesome-Controllable-Generation?style=for-the-badge" alt="Contributors"></a>
-    <a href="https://github.com/atfortes/Awesome-Controllable-Generation/blob/main/README.md"><img src="https://img.shields.io/badge/Papers-80-80?style=for-the-badge" alt="Papers"></a>
-  <a href="https://github.com/atfortes/Awesome-Controllable-Generation/blob/main/LICENSE"><img src="https://img.shields.io/github/license/atfortes/Awesome-Controllable-Generation?style=for-the-badge" alt="MIT License"></a>
+  <a href="https://github.com/atfortes/Awesome-Controllable-Diffusion/stargazers"><img src="https://img.shields.io/github/stars/atfortes/Awesome-Controllable-Diffusion?style=for-the-badge" alt="Stargazers"></a>
+  <a href="https://github.com/atfortes/Awesome-Controllable-Diffusion/network/members"><img src="https://img.shields.io/github/forks/atfortes/Awesome-Controllable-Diffusion?style=for-the-badge" alt="Forks"></a>
+  <a href="https://github.com/atfortes/Awesome-Controllable-Diffusion/graphs/contributors"><img src="https://img.shields.io/github/contributors/atfortes/Awesome-Controllable-Diffusion?style=for-the-badge" alt="Contributors"></a>
+    <a href="https://github.com/atfortes/Awesome-Controllable-Diffusion/blob/main/README.md"><img src="https://img.shields.io/badge/Papers-80-80?style=for-the-badge" alt="Papers"></a>
+  <a href="https://github.com/atfortes/Awesome-Controllable-Diffusion/blob/main/LICENSE"><img src="https://img.shields.io/github/license/atfortes/Awesome-Controllable-Diffusion?style=for-the-badge" alt="MIT License"></a>
 </div>
 
-<h1 align="center">Awesome Controllable Generation</h1>
+<h1 align="center">Awesome Controllable Diffusion</h1>
 
 <p align="center">
     <b> Papers and Resources on Adding Conditional Controls to Diffusion Models in the Era of AIGC.</b>
@@ -605,6 +605,9 @@
 
 1. **[Awesome-LLM-Reasoning](https://github.com/atfortes/Awesome-LLM-Reasoning)**  Collection of papers and resources on Reasoning in Large Language Models.
 
+1. **[Awesome-Controllable-T2I-Diffusion-Models](https://github.com/PRIV-Creation/Awesome-Controllable-T2I-Diffusion-Models)**  A collection of resources on controllable generation with text-to-image diffusion models.
+
+
 <p align="right" style="font-size: 14px; color: #555; margin-top: 20px;">
     <a href="#readme-top" style="text-decoration: none; color: #007bff; font-weight: bold;">
         ↑ Back to Top ↑
@@ -625,8 +628,8 @@
 
 ## Contributors
 
-<a href="https://github.com/atfortes/Awesome-Controllable-Generation/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=atfortes/Awesome-Controllable-Generation" />
+<a href="https://github.com/atfortes/Awesome-Controllable-Diffusion/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=atfortes/Awesome-Controllable-Diffusion" />
 </a>
 
 ## Star History
