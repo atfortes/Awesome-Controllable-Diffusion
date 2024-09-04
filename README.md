@@ -21,11 +21,7 @@
 <details>
   <summary>🗂️ Table of Contents</summary>
   <ol>
-    <li><a href="#papers">📝 Papers</a>
-      <ul>
-        <li><a href="#diffusion-models">Diffusion Models</a></li>
-      </ul>
-    </li>
+    <li><a href="#papers">📝 Papers</a></li>
     <li><a href="#other-resources">🔗 Other Resources</a></li>
     <li><a href="#other-awesome-lists">🌟 Other Awesome Lists</a></li>
     <li><a href="#contributing">✍️ Contributing</a></li>
@@ -35,7 +31,7 @@
 
 
  
-# 📝 Papers
+# <h1 id="papers">📝 Papers<h1/>
 
 
 
@@ -585,7 +581,7 @@
 
 
 
- # 🔗 Other Resources
+ # <h1 id="other-resources">🔗 Other Resources# <h1/>
 
  
 
@@ -599,7 +595,7 @@
 
 
  
- # 🌟 Other Awesome Lists
+ # <h1 id="other-awesome-lists">🌟 Other Awesome Lists<h1/>
 
 
 
@@ -616,7 +612,7 @@
 
 
 
-# ✍️ Contributing
+ # <h1 id="contributing">✍️ Contributing # <h1/>
 
 
 
