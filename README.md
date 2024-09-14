@@ -4,7 +4,7 @@
   <a href="https://github.com/atfortes/Awesome-Controllable-Diffusion/stargazers"><img src="https://img.shields.io/github/stars/atfortes/Awesome-Controllable-Diffusion?style=for-the-badge" alt="Stargazers"></a>
   <a href="https://github.com/atfortes/Awesome-Controllable-Diffusion/network/members"><img src="https://img.shields.io/github/forks/atfortes/Awesome-Controllable-Diffusion?style=for-the-badge" alt="Forks"></a>
   <a href="https://github.com/atfortes/Awesome-Controllable-Diffusion/graphs/contributors"><img src="https://img.shields.io/github/contributors/atfortes/Awesome-Controllable-Diffusion?style=for-the-badge" alt="Contributors"></a>
-    <a href="https://github.com/atfortes/Awesome-Controllable-Diffusion/blob/main/README.md"><img src="https://img.shields.io/badge/Papers-81-81?style=for-the-badge" alt="Papers"></a>
+    <a href="https://github.com/atfortes/Awesome-Controllable-Diffusion/blob/main/README.md"><img src="https://img.shields.io/badge/Papers-70-70?style=for-the-badge" alt="Papers"></a>
   <a href="https://github.com/atfortes/Awesome-Controllable-Diffusion/blob/main/LICENSE"><img src="https://img.shields.io/github/license/atfortes/Awesome-Controllable-Diffusion?style=for-the-badge" alt="MIT License"></a>
 </div>
 
@@ -157,6 +157,12 @@
     *Viraj Shah, Nataniel Ruiz, Forrester Cole, Erika Lu, Svetlana Lazebnik, Yuanzhen Li, Varun Jampani.* Preprint 2023.
 
     ![](https://img.shields.io/badge/Image-blue?style=flat-square)![](https://img.shields.io/badge/Subject--Driven-orange?style=flat-square)![](https://img.shields.io/badge/Style-ff0000?style=flat-square)
+
+1. **[Visual Anagrams: Generating Multi-View Optical Illusions with Diffusion Models.](https://arxiv.org/abs/2311.17919)** [[project](https://dangeng.github.io/visual_anagrams/)] [[paper](https://arxiv.org/abs/2311.17919)] [[code](https://github.com/dangeng/visual_anagrams)]
+
+    *Daniel Geng, Inbum Park, Andrew Owens.* CVPR'24.
+
+    ![](https://img.shields.io/badge/Image-blue?style=flat-square)![](https://img.shields.io/badge/Subject--Driven-orange?style=flat-square)![](https://img.shields.io/badge/Illusion-3cb371?style=flat-square)
 
 1. **[Style Aligned Image Generation via Shared Attention.](https://arxiv.org/abs/2312.02133)** 🔥 [[project](https://style-aligned-gen.github.io/)] [[paper](https://arxiv.org/abs/2312.02133)] [[code](https://github.com/google/style-aligned/)]
 
@@ -469,6 +475,18 @@
     *Yongzhi Xu, Yonhon Ng, Yifu Wang, Inkyu Sa, Yunfei Duan, Yang Li, Pan Ji, Hongdong Li.* Preprint 2024.
 
     ![](https://img.shields.io/badge/3D-3cb371?style=flat-square)![](https://img.shields.io/badge/Layout-a50b5e?style=flat-square)
+
+1. **[Generative Photomontage.](https://arxiv.org/abs/2408.07116)** [[project](https://lseancs.github.io/generativephotomontage/)] [[paper](https://arxiv.org/abs/2408.07116)] [[code](https://github.com/lseancs/GenerativePhotomontage)]
+
+    *Sean J. Liu, Nupur Kumari, Ariel Shamir, Jun-Yan Zhu.* Preprint 2024.
+
+    ![](https://img.shields.io/badge/Image-blue?style=flat-square)![](https://img.shields.io/badge/Subject--Driven-orange?style=flat-square)![](https://img.shields.io/badge/Layout-a50b5e?style=flat-square)![](https://img.shields.io/badge/Composition-5218fa?style=flat-square)
+
+1. **[CSGO: Content-Style Composition in Text-to-Image Generation.](https://arxiv.org/abs/2408.16766)** [[project](https://csgo-gen.github.io/)] [[paper](https://arxiv.org/abs/2408.16766)] [[code](https://github.com/instantX-research/CSGO)]
+
+    *Peng Xing, Haofan Wang, Yanpeng Sun, Qixun Wang, Xu Bai, Hao Ai, Renyuan Huang, Zechao Li.* Preprint 2024.
+
+    ![](https://img.shields.io/badge/Image-blue?style=flat-square)![](https://img.shields.io/badge/Subject--Driven-orange?style=flat-square)![](https://img.shields.io/badge/Style-ff0000?style=flat-square)![](https://img.shields.io/badge/Composition-5218fa?style=flat-square)
 
 1. **[IFAdapter: Instance Feature Control for Grounded Text-to-Image Generation.](https://arxiv.org/abs/2409.08240)** 🔥 [[project](https://ifadapter.github.io/)] [[paper](https://arxiv.org/abs/2409.08240)] [[code](https://github.com/WUyinwei-hah/IFAdapter)]
 
