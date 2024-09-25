@@ -14,10 +14,6 @@
     <b> Papers and Resources on Adding Conditional Controls to Diffusion Models in the Era of AIGC.</b>
 </p>
 
-<p align="center">
-     Dive into the cutting-edge of controllable generation in diffusion models, a field revolutionized by pioneering works like ControlNet <a href=https://arxiv.org/abs/2302.05543>[1]</a> and DreamBooth <a href=https://arxiv.org/abs/2302.05543>[2]</a>. This repository is invaluable for those interested in advanced techniques for fine-grained synthesis control, ranging from subject-driven generation to intricate layout manipulations. While ControlNet and DreamBooth are key highlights, the collection spans a broader spectrum, including recent advancements and applications in image, video, and 3D generation.
-</p>
-
 <div align="center">
   <a href="https://buymeacoffee.com/atfortes"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/></a>
 </div>
