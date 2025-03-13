@@ -34,6 +34,16 @@
 # <h1 id="papers">📝 Papers<h1/>
 
 
+## 2025
+
+1. **[Bokeh Diffusion: Defocus Blur Control in Text-to-Image Diffusion Models.](https://arxiv.org/abs/2503.08434)** 🔥 [[project](https://atfortes.github.io/projects/bokeh-diffusion/)] [[paper](https://arxiv.org/abs/2503.08434)] [[code](https://github.com/atfortes/BokehDiffusion)]
+
+    *Armando Fortes, Tianyi Wei, Shangchen Zhou, Xingang Pan.* Preprint 2025.
+
+    ![](https://img.shields.io/badge/Image-blue?style=flat-square)![](https://img.shields.io/badge/Photography-ff0000?style=flat-square)
+
+   <img src="assets/bokeh.png" style="width:100%">
+
 ## 2024
 
 1. **[IFAdapter: Instance Feature Control for Grounded Text-to-Image Generation.](https://arxiv.org/abs/2409.08240)** 🔥 [[project](https://ifadapter.github.io/)] [[paper](https://arxiv.org/abs/2409.08240)] [[code](https://github.com/WUyinwei-hah/IFAdapter)]
