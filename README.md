@@ -268,13 +268,11 @@
 
     ![](https://img.shields.io/badge/3D-3cb371?style=flat-square)![](https://img.shields.io/badge/Subject--Driven-orange?style=flat-square)
 
-1. **[FeedFace: Efficient Inference-based Face Personalization via Diffusion Models.](https://openreview.net/forum?id=PqPKBcamy3)** 🔥 [[paper](https://openreview.net/forum?id=PqPKBcamy3)] [[code](https://github.com/Xiang-cd/FeedFace)]
+1. **[FeedFace: Efficient Inference-based Face Personalization via Diffusion Models.](https://openreview.net/forum?id=PqPKBcamy3)** [[paper](https://openreview.net/forum?id=PqPKBcamy3)] [[code](https://github.com/Xiang-cd/FeedFace)]
 
     *Chendong Xiang, Armando Fortes, Khang Hui Chua, Hang Su, Jun Zhu.* Tiny Papers @ ICLR'24.
 
     ![](https://img.shields.io/badge/Image-blue?style=flat-square)![](https://img.shields.io/badge/Subject--Driven-orange?style=flat-square)
-
-    <img src="assets/feedface.png" style="width:100%">
 
 1. **[Multi-LoRA Composition for Image Generation.](https://arxiv.org/abs/2402.16843)** [[project](https://maszhongming.github.io/Multi-LoRA-Composition/)] [[paper](https://arxiv.org/abs/2402.16843)] [[code](https://github.com/maszhongming/Multi-LoRA-Composition)]
 
